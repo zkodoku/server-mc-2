@@ -134,6 +134,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2024-12-09 02:41:44 +0000",
+      "minecraft:beach": "2024-12-09 03:45:30 +0000",
       "minecraft:river": "2024-12-09 03:12:05 +0000",
       "minecraft:forest": "2024-12-09 03:05:59 +0000",
       "minecraft:meadow": "2024-12-09 02:38:57 +0000",
@@ -167,6 +168,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2024-12-09 03:45:54 +0000",
       "in_better_spider_dungeon": "2024-12-08 19:35:14 +0000"
     },
     "done": false
@@ -226,6 +228,7 @@
     "criteria": {
       "pumpkin_pie": "2024-12-09 02:54:54 +0000",
       "bread": "2024-12-08 20:08:39 +0000",
+      "golden_apple": "2024-12-09 03:47:12 +0000",
       "golden_carrot": "2024-12-09 02:49:16 +0000"
     },
     "done": false
@@ -302,6 +305,12 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-09 03:45:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-09 03:01:13 +0000"
@@ -338,6 +347,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-09 03:51:47 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2024-12-09 03:32:45 +0000"
@@ -347,6 +362,12 @@
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2024-12-09 03:39:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2024-12-09 03:54:14 +0000"
     },
     "done": true
   },
@@ -362,9 +383,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-09 03:45:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-09 02:37:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2024-12-09 03:54:14 +0000"
     },
     "done": true
   },
