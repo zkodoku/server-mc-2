@@ -1284,3 +1284,79 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Dec2024 04:28:06.079] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-32, z=-208}
 [09Dec2024 04:28:10.056] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
 [09Dec2024 04:29:36.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2120ms or 42 ticks behind
+[09Dec2024 04:29:58.322] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6533ms or 130 ticks behind
+[09Dec2024 04:30:13.546] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/49569, l='ServerLevel[world]', x=-934.49, y=75.00, z=40.54] died, message: 'Villager was burnt to a crisp whilst fighting Fire Dragon'
+[09Dec2024 04:30:18.726] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/49555, l='ServerLevel[world]', x=-934.50, y=71.00, z=47.51] died, message: 'Villager was burnt to a crisp whilst fighting Fire Dragon'
+[09Dec2024 04:30:22.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9263ms or 185 ticks behind
+[09Dec2024 04:30:27.218] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/49559, l='ServerLevel[world]', x=-938.52, y=75.00, z=54.51] died, message: 'Villager burned to death'
+[09Dec2024 04:30:27.273] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/49566, l='ServerLevel[world]', x=-939.24, y=71.50, z=50.37] died, message: 'Villager burned to death'
+[09Dec2024 04:30:28.347] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/49560, l='ServerLevel[world]', x=-934.70, y=71.00, z=49.50] died, message: 'Leatherworker burned to death'
+[09Dec2024 04:30:32.183] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/49563, l='ServerLevel[world]', x=-942.46, y=71.00, z=48.44] died, message: 'Villager burned to death'
+[09Dec2024 04:30:32.857] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/49570, l='ServerLevel[world]', x=-933.30, y=71.00, z=52.51] died, message: 'Villager burned to death'
+[09Dec2024 04:30:33.377] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/49562, l='ServerLevel[world]', x=-932.36, y=74.56, z=53.35] died, message: 'Librarian burned to death'
+[09Dec2024 04:30:35.633] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/49561, l='ServerLevel[world]', x=-937.47, y=75.50, z=53.51] died, message: 'Villager burned to death'
+[09Dec2024 04:30:42.024] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4485ms or 89 ticks behind
+[09Dec2024 04:30:46.333] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/49567, l='ServerLevel[world]', x=-935.47, y=74.42, z=54.30] died, message: 'Villager was slain by Fire Dragon'
+[09Dec2024 04:30:49.644] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/49558, l='ServerLevel[world]', x=-940.57, y=72.50, z=49.83] died, message: 'Villager walked into fire whilst fighting Fire Dragon'
+[09Dec2024 04:30:49.663] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/49505, l='ServerLevel[world]', x=-940.50, y=72.50, z=49.30] died, message: 'Villager was turned into KFC by Fire Dragon'
+[09Dec2024 04:30:50.606] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/49565, l='ServerLevel[world]', x=-942.05, y=71.00, z=53.30] died, message: 'Villager was burnt to a crisp whilst fighting Fire Dragon'
+[09Dec2024 04:31:00.439] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/49508, l='ServerLevel[world]', x=-943.80, y=71.00, z=58.39] died, message: 'Fisherman burned to death'
+[09Dec2024 04:31:02.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ burned to death
+[09Dec2024 04:31:02.090] [Server thread/INFO] [tombstone/]: The player Direx__ has successfully been saved
+[09Dec2024 04:31:03.023] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[09Dec2024 04:31:26.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8309ms or 166 ticks behind
+[09Dec2024 04:31:50.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9258ms or 185 ticks behind
+[09Dec2024 04:32:06.162] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[09Dec2024 04:32:06.169] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[09Dec2024 04:32:09.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Direx__ moved too quickly! 8.904025391026153,1.4554677395850177,4.690409581939992
+[09Dec2024 04:32:18.037] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/49564, l='ServerLevel[world]', x=-939.50, y=71.00, z=42.60] died, message: 'Villager was slain by Fire Dragon'
+[09Dec2024 04:32:18.725] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13186ms or 263 ticks behind
+[09Dec2024 04:32:25.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Direx__ moved too quickly! 10.24625573558069,0.45245147807597164,1.1519841840257747
+[09Dec2024 04:32:36.476] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2787ms or 55 ticks behind
+[09Dec2024 04:33:35.957] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-660, y=-18, z=-211} but found not block entity block Block{minecraft:lava}[level=2] at location
+[09Dec2024 04:33:35.958] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lava}[level=2] but failed at location BlockPos{x=-660, y=-18, z=-211}
+[09Dec2024 04:33:39.602] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[09Dec2024 04:35:19.007] [pool-6-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=-517, y=73, z=-485}
+[09Dec2024 04:35:24.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5959ms or 119 ticks behind
+[09Dec2024 04:35:24.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Direx__ moved too quickly! 6.227431117734682,2.0,-7.811052078553473
+[09Dec2024 04:35:24.440] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-518, y=73, z=-485} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[09Dec2024 04:35:24.447] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-518, y=73, z=-485}
+[09Dec2024 04:35:24.447] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-517, y=73, z=-485} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[09Dec2024 04:35:24.447] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-517, y=73, z=-485}
+[09Dec2024 04:35:24.448] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-518, y=72, z=-485} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[09Dec2024 04:35:24.448] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=-518, y=72, z=-485}
+[09Dec2024 04:35:46.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ has made the advancement [This Must be a Sign!]
+[09Dec2024 04:35:55.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [This Must be a Sign!]
+[09Dec2024 04:36:24.540] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[09Dec2024 04:36:24.543] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[09Dec2024 04:38:09.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist withered away whilst fighting Nightmare Stalker
+[09Dec2024 04:38:09.447] [Server thread/INFO] [tombstone/]: The player LastFist has successfully been saved
+[09Dec2024 04:38:23.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4305ms or 86 ticks behind
+[09Dec2024 04:38:23.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Direx__ moved too quickly! 10.1757918193357,0.5800000131130219,0.4708554555252249
+[09Dec2024 04:38:29.767] [Worker-Main-8/ERROR] [net.minecraft.Util/]: Caught exception in thread Thread[#86,Worker-Main-8,5,SERVER]
+java.lang.OutOfMemoryError: Java heap space
+	at it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap.clone(Long2ObjectOpenHashMap.java:1332) ~[fastutil-8.5.9.jar%2390!/:?]
+	at net.minecraft.world.level.lighting.SkyLightSectionStorage$SkyDataLayerStorageMap.m_5972_(SkyLightSectionStorage.java:164) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.world.level.lighting.SkyLightSectionStorage$SkyDataLayerStorageMap.m_5972_(SkyLightSectionStorage.java:144) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.world.level.lighting.LayerLightSectionStorage.m_75790_(LayerLightSectionStorage.java:287) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.world.level.lighting.LightEngine.m_9323_(LightEngine.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.world.level.lighting.LevelLightEngine.m_9323_(LevelLightEngine.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.level.ThreadedLevelLightEngine.m_9366_(ThreadedLevelLightEngine.java:187) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.level.ThreadedLevelLightEngine.m_215156_(ThreadedLevelLightEngine.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.server.level.ThreadedLevelLightEngine$$Lambda/0x00007e649eda96b8.run(Unknown Source) ~[?:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23283!/:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1423) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[09Dec2024 04:38:56.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ was killed by The Bomber using magic
+[09Dec2024 04:38:56.973] [Server thread/INFO] [tombstone/]: The player Direx__ has successfully been saved
+[09Dec2024 04:40:00.790] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[09Dec2024 04:40:00.790] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[09Dec2024 04:40:01.272] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 23e6b292-1d5e-400a-be05-0b6f2c2cf742
+[09Dec2024 04:40:01.331] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID f4180255-b263-464f-bb20-97049bb33ac8
+[09Dec2024 04:40:01.331] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/server-mc-2/servidor_minecraft/./crash-reports/crash-2024-12-09_04.40.01-server.txt

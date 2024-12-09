@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-12-09 04:35:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-09 02:43:46 +0000"
@@ -152,6 +158,12 @@
   "betterdungeons:zombie_dungeon": {
     "criteria": {
       "in_better_zombie_dungeon": "2024-12-09 03:45:51 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2024-12-09 04:30:15 +0000"
     },
     "done": true
   },
@@ -279,6 +291,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2024-12-09 02:41:46 +0000",
+      "minecraft:birch_forest": "2024-12-09 04:34:56 +0000",
       "minecraft:beach": "2024-12-09 03:45:26 +0000",
       "minecraft:dark_forest": "2024-12-09 04:13:07 +0000",
       "minecraft:river": "2024-12-09 03:11:53 +0000",
