@@ -729,3 +729,73 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Dec2024 02:47:34.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> q es eso
 [09Dec2024 02:47:39.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> uy
 [09Dec2024 02:47:42.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> absorcion
+[09Dec2024 02:48:01.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[09Dec2024 02:48:02.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [A Strange Grave Dust]
+[09Dec2024 02:48:10.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> ajajaj
+[09Dec2024 02:48:15.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> un cerod
+[09Dec2024 02:48:16.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> do
+[09Dec2024 02:48:17.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> negro
+[09Dec2024 02:48:18.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> ajajajaw
+[09Dec2024 02:48:55.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> miralo
+[09Dec2024 02:49:03.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> josue
+[09Dec2024 02:49:06.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> ajajajajajaja
+[09Dec2024 02:50:16.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> eo no
+[09Dec2024 02:50:17.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> nada
+[09Dec2024 02:50:26.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> tiene dizque toda la vida
+[09Dec2024 02:50:30.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> uy
+[09Dec2024 02:50:36.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> vamonos
+[09Dec2024 02:50:38.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> sigame
+[09Dec2024 02:50:50.727] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-541}
+[09Dec2024 02:50:52.022] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-536}
+[09Dec2024 02:50:52.023] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=27, z=-536}
+[09Dec2024 02:50:52.023] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=27, z=-536}
+[09Dec2024 02:50:52.024] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=28, z=-536}
+[09Dec2024 02:50:52.024] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=28, z=-536}
+[09Dec2024 02:50:52.032] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=28, z=-536}
+[09Dec2024 02:50:53.614] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[09Dec2024 02:50:55.202] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-545}
+[09Dec2024 02:51:02.919] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SMONKY_WEAR22[/127.165.56.237:54555] logged in with entity id 7112 at (-8.5, 70.0, 9.5)
+[09Dec2024 02:51:02.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SMONKY_WEAR22 joined the game
+[09Dec2024 02:51:03.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SMONKY_WEAR22 has made the advancement [Christmas]
+[09Dec2024 02:51:03.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SMONKY_WEAR22 has completed the challenge [The Undead]
+[09Dec2024 02:51:03.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SMONKY_WEAR22 has made the advancement [Ice and Fire]
+[09Dec2024 02:51:07.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> señor bendito
+[09Dec2024 02:51:08.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> el jeipi
+[09Dec2024 02:51:13.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> este es el mod de dragones
+[09Dec2024 02:51:15.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7335ms or 146 ticks behind
+[09Dec2024 02:51:39.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8829ms or 176 ticks behind
+[09Dec2024 02:52:01.061] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6372ms or 127 ticks behind
+[09Dec2024 02:52:21.342] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5303ms or 106 ticks behind
+[09Dec2024 02:52:25.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> oe pilla
+[09Dec2024 02:52:28.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> acá hay armor infinita
+[09Dec2024 02:52:31.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> una gallina mano
+[09Dec2024 02:52:39.171] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2832ms or 56 ticks behind
+[09Dec2024 02:52:44.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> cords
+[09Dec2024 02:52:51.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> dele al tab
+[09Dec2024 02:52:56.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> y mire en el mapa
+[09Dec2024 02:53:08.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[09Dec2024 02:53:11.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> esto es enorme
+[09Dec2024 02:53:24.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> pille
+[09Dec2024 02:53:26.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> eso es infinit
+[09Dec2024 02:53:27.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> jajaja
+[09Dec2024 02:53:38.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> no me deja
+[09Dec2024 02:53:40.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> deme una
+[09Dec2024 02:53:42.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> uy
+[09Dec2024 02:53:49.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> lo bugeo
+[09Dec2024 02:53:59.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> solo los pantalones
+[09Dec2024 02:54:01.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> jajajajaaja
+[09Dec2024 02:54:15.756] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[09Dec2024 02:54:34.319] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[09Dec2024 02:55:07.923] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[09Dec2024 02:55:33.692] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[09Dec2024 02:55:34.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> quiere llamada
+[09Dec2024 02:55:51.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2381ms or 47 ticks behind
+[09Dec2024 02:56:08.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2817ms or 56 ticks behind
+[09Dec2024 02:56:27.601] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3762ms or 75 ticks behind
+[09Dec2024 02:56:44.834] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2245ms or 44 ticks behind
+[09Dec2024 02:56:45.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Amateur Archaeologist]
+[09Dec2024 02:57:02.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2289ms or 45 ticks behind
+[09Dec2024 02:57:26.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SMONKY_WEAR22 has made the advancement [Cobweb Entanglement]
+[09Dec2024 02:57:29.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[09Dec2024 02:57:47.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SMONKY_WEAR22 has made the advancement [Alex's Mobs]
+[09Dec2024 02:57:55.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
