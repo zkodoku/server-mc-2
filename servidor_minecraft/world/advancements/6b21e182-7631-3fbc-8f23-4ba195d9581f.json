@@ -232,6 +232,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-09 02:59:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-09 02:42:43 +0000"
@@ -256,6 +262,12 @@
     },
     "done": true
   },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2024-12-09 03:03:15 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2024-12-09 02:45:23 +0000"
@@ -265,6 +277,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-09 02:39:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-09 03:01:13 +0000"
     },
     "done": true
   },

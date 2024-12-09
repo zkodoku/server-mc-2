@@ -17,6 +17,12 @@
     },
     "done": false
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-12-09 02:59:28 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2024-12-09 02:51:03 +0000"
@@ -65,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-09 02:58:15 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_recipe": "2024-12-09 02:51:03 +0000"
@@ -89,6 +101,12 @@
     },
     "done": false
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-09 03:01:35 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/christmas": {
     "criteria": {
       "coded_trigger": "2024-12-09 02:51:03 +0000"
@@ -109,6 +127,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2024-12-09 02:59:38 +0000",
       "minecraft:plains": "2024-12-09 02:51:05 +0000"
     },
     "done": false
@@ -164,6 +183,12 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2024-12-09 02:51:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-09 02:58:55 +0000"
     },
     "done": true
   },
