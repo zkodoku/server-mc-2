@@ -204,7 +204,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-08 20:06:59 +0000",
-      "minecraft:spider": "2024-12-08 20:07:04 +0000"
+      "minecraft:spider": "2024-12-08 20:07:04 +0000",
+      "minecraft:zombie": "2024-12-09 03:18:59 +0000"
     },
     "done": false
   },
@@ -231,6 +232,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-08 20:08:39 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:wasp_drone_summon": {
+    "criteria": {
+      "wasp_drone_summon_0": "2024-12-09 03:17:57 +0000"
     },
     "done": true
   },
