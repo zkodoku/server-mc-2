@@ -858,3 +858,32 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Dec2024 03:07:35.157] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5068ms or 101 ticks behind
 [09Dec2024 03:07:54.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4574ms or 91 ticks behind
 [09Dec2024 03:08:12.168] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2479ms or 49 ticks behind
+[09Dec2024 03:08:32.453] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5314ms or 106 ticks behind
+[09Dec2024 03:08:53.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[09Dec2024 03:09:06.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ has made the advancement [Wax Off]
+[09Dec2024 03:09:10.497] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[09Dec2024 03:09:27.908] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2419ms or 48 ticks behind
+[09Dec2024 03:09:47.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4974ms or 99 ticks behind
+[09Dec2024 03:10:08.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[09Dec2024 03:10:26.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2897ms or 57 ticks behind
+[09Dec2024 03:10:45.268] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[09Dec2024 03:11:03.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3631ms or 72 ticks behind
+[09Dec2024 03:11:23.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[09Dec2024 03:11:41.960] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[09Dec2024 03:12:02.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5491ms or 109 ticks behind
+[09Dec2024 03:12:24.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[09Dec2024 03:12:47.496] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[09Dec2024 03:12:48.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9047ms or 180 ticks behind
+[09Dec2024 03:13:10.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6871ms or 137 ticks behind
+[09Dec2024 03:13:28.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3564ms or 71 ticks behind
+[09Dec2024 03:13:46.369] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2830ms or 56 ticks behind
+[09Dec2024 03:14:05.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[09Dec2024 03:14:22.817] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2778ms or 55 ticks behind
+[09Dec2024 03:14:41.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[09Dec2024 03:14:59.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2484ms or 49 ticks behind
+[09Dec2024 03:15:16.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[09Dec2024 03:15:22.667] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/6850, l='ServerLevel[world]', x=-189.49, y=87.00, z=40.70] died, message: 'Beekeeper was slain by Zombie'
+[09Dec2024 03:15:39.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[09Dec2024 03:16:58.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[09Dec2024 03:17:31.366] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7074, l='ServerLevel[world]', x=-229.28, y=117.00, z=34.77] died, message: 'Villager was slain by Ghost'
+[09Dec2024 03:17:57.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Wasp Business]

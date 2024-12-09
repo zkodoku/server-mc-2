@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-12-09 03:07:25 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:misc/yellow_dye_from_buttercup": {
     "criteria": {
       "has_the_recipe": "2024-12-09 02:51:03 +0000"
@@ -127,7 +133,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2024-12-09 03:07:30 +0000",
       "minecraft:river": "2024-12-09 02:59:38 +0000",
+      "minecraft:meadow": "2024-12-09 03:07:03 +0000",
       "minecraft:plains": "2024-12-09 02:51:05 +0000"
     },
     "done": false
@@ -149,6 +157,12 @@
       "requirement": "2024-12-09 02:51:03 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-12-09 03:05:24 +0000"
+    },
+    "done": false
   },
   "incendium:technical/using/shield": {
     "criteria": {

@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2024-12-09 03:09:06 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_spider_dungeon": "2024-12-09 02:38:12 +0000"
@@ -189,6 +195,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2024-12-09 02:41:46 +0000",
+      "minecraft:river": "2024-12-09 03:11:53 +0000",
+      "minecraft:forest": "2024-12-09 03:09:24 +0000",
       "minecraft:meadow": "2024-12-09 02:39:02 +0000",
       "minecraft:plains": "2024-12-09 02:33:02 +0000"
     },
