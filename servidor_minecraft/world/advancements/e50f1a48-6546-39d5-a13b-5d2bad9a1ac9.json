@@ -65,11 +65,23 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-09 03:31:36 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:theundeadchallenges": {
     "criteria": {
       "theundeadchallenges": "2024-12-09 02:32:59 +0000"
     },
     "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_evoker": "2024-12-09 03:32:24 +0000"
+    },
+    "done": false
   },
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
@@ -116,6 +128,12 @@
   "iceandfire:iceandfire/stymphalian_arrow": {
     "criteria": {
       "bestiary": "2024-12-09 02:46:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-09 03:31:31 +0000"
     },
     "done": true
   },
@@ -170,6 +188,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-09 02:41:49 +0000",
+      "minecraft:vindicator": "2024-12-09 03:31:36 +0000",
+      "minecraft:evoker": "2024-12-09 03:32:24 +0000",
       "minecraft:stray": "2024-12-09 02:48:33 +0000"
     },
     "done": false
@@ -226,6 +246,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-09 03:32:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2024-12-09 02:42:39 +0000",
@@ -249,6 +275,12 @@
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2024-12-09 02:32:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-09 03:31:36 +0000"
     },
     "done": true
   },

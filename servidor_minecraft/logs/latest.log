@@ -898,3 +898,55 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Dec2024 03:21:47.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of LastFist) moved wrongly! 0.26874419000249716
 [09Dec2024 03:24:33.327] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2788ms or 55 ticks behind
 [09Dec2024 03:26:41.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ has made the advancement [Stone Age]
+[09Dec2024 03:28:34.970] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2180ms or 43 ticks behind
+[09Dec2024 03:29:05.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15886ms or 317 ticks behind
+[09Dec2024 03:29:36.069] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15280ms or 305 ticks behind
+[09Dec2024 03:29:50.386] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=63, y=-56, z=89}
+[09Dec2024 03:29:50.388] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-56, z=90}
+[09Dec2024 03:29:50.388] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=66, y=-56, z=92}
+[09Dec2024 03:29:50.389] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=68, y=-56, z=94}
+[09Dec2024 03:29:50.389] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=69, y=-56, z=98}
+[09Dec2024 03:29:50.390] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=70, y=-56, z=101}
+[09Dec2024 03:29:50.390] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=73, y=-56, z=102}
+[09Dec2024 03:29:50.733] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=61, y=-56, z=87}
+[09Dec2024 03:29:53.358] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-56, z=101}
+[09Dec2024 03:29:53.359] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=79, y=-56, z=103}
+[09Dec2024 03:29:53.494] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=80, y=-56, z=106}
+[09Dec2024 03:29:53.494] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=85, y=-56, z=107}
+[09Dec2024 03:29:53.495] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=85, y=-56, z=112}
+[09Dec2024 03:29:53.495] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=89, y=-56, z=115}
+[09Dec2024 03:29:53.495] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=90, y=-56, z=118}
+[09Dec2024 03:30:04.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13173ms or 263 ticks behind
+[09Dec2024 03:30:29.924] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-573, y=35, z=311} but found not block entity block Block{minecraft:water}[level=6] at location
+[09Dec2024 03:30:29.925] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=6] but failed at location BlockPos{x=-573, y=35, z=311}
+[09Dec2024 03:30:32.621] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13432ms or 268 ticks behind
+[09Dec2024 03:30:57.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9545ms or 190 ticks behind
+[09Dec2024 03:31:16.319] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4230ms or 84 ticks behind
+[09Dec2024 03:31:31.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ has made the advancement [Take Aim]
+[09Dec2024 03:31:35.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4638ms or 92 ticks behind
+[09Dec2024 03:31:36.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ has made the advancement [Knowledge of Death]
+[09Dec2024 03:31:36.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ has made the advancement [Ambush]
+[09Dec2024 03:31:54.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4086ms or 81 ticks behind
+[09Dec2024 03:32:01.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Ambush]
+[09Dec2024 03:32:13.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3527ms or 70 ticks behind
+[09Dec2024 03:32:31.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3104ms or 62 ticks behind
+[09Dec2024 03:32:35.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ has made the advancement [It Belongs in a Museum]
+[09Dec2024 03:32:45.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [It Belongs in a Museum]
+[09Dec2024 03:32:51.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2098ms or 41 ticks behind
+[09Dec2024 03:33:08.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2272ms or 45 ticks behind
+[09Dec2024 03:33:28.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4998ms or 99 ticks behind
+[09Dec2024 03:33:47.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4009ms or 80 ticks behind
+[09Dec2024 03:34:06.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[09Dec2024 03:34:25.138] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3349ms or 66 ticks behind
+[09Dec2024 03:34:41.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ has reached the goal [Fortuitous Militia]
+[09Dec2024 03:34:43.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3635ms or 72 ticks behind
+[09Dec2024 03:35:30.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[09Dec2024 03:36:12.711] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[09Dec2024 03:36:29.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
+[09Dec2024 03:36:36.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ has made the advancement [Diamonds!]
+[09Dec2024 03:36:38.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Local Brewery]
+[09Dec2024 03:36:47.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2499ms or 49 ticks behind
+[09Dec2024 03:37:06.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[09Dec2024 03:37:50.273] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/21775, l='ServerLevel[world]', x=-457.50, y=77.00, z=247.50]
+[09Dec2024 03:38:25.405] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/21921, l='ServerLevel[world]', x=-456.50, y=77.00, z=246.50]
+[09Dec2024 03:38:39.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
