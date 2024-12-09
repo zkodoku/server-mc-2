@@ -134,9 +134,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2024-12-09 02:41:44 +0000",
+      "minecraft:birch_forest": "2024-12-09 04:01:40 +0000",
       "minecraft:beach": "2024-12-09 03:45:30 +0000",
+      "minecraft:dark_forest": "2024-12-09 04:13:07 +0000",
       "minecraft:river": "2024-12-09 03:12:05 +0000",
       "minecraft:forest": "2024-12-09 03:05:59 +0000",
+      "minecraft:ocean": "2024-12-09 03:58:35 +0000",
       "minecraft:meadow": "2024-12-09 02:38:57 +0000",
       "minecraft:plains": "2024-12-08 19:32:08 +0000"
     },
@@ -263,6 +266,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-09 04:12:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2024-12-09 03:36:38 +0000"
@@ -296,6 +305,12 @@
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2024-12-09 02:45:23 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-09 04:14:58 +0000"
     },
     "done": true
   },
@@ -359,6 +374,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-09 04:05:10 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2024-12-09 03:39:48 +0000"
@@ -380,6 +401,12 @@
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-09 02:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-09 03:55:36 +0000"
     },
     "done": true
   },
