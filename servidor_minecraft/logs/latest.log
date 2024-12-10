@@ -849,3 +849,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 05:43:07.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ has made the advancement [The Silence of the Forest]
 [10Dec2024 05:43:07.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ has reached the goal [Time To Even The Scales]
 [10Dec2024 05:44:53.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has completed the challenge [Naga Armorer]
+[10Dec2024 05:51:51.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Brown Bed] to LastFist
+[10Dec2024 05:52:16.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[10Dec2024 05:52:16.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamerule<--[HERE]
+[10Dec2024 05:54:26.913] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/101352, l='ServerLevel[world]', x=-935.07, y=73.13, z=39.82] died, message: 'Villager burned to death'
+[10Dec2024 05:55:02.500] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/101677, l='ServerLevel[world]', x=-949.66, y=72.18, z=40.46] died, message: 'Leatherworker burned to death'
