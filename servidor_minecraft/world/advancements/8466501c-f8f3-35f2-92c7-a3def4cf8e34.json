@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-10 20:00:35 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2024-12-10 19:32:10 +0000"
@@ -127,6 +133,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-10 20:05:14 +0000",
       "minecraft:zombie": "2024-12-10 19:47:51 +0000"
     },
     "done": false
@@ -158,6 +165,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2024-12-10 19:37:43 +0000",
+      "minecraft:dripstone_caves": "2024-12-10 19:56:03 +0000",
       "minecraft:forest": "2024-12-10 19:34:11 +0000",
       "minecraft:meadow": "2024-12-10 19:39:37 +0000",
       "minecraft:plains": "2024-12-10 19:32:11 +0000"

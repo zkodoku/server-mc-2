@@ -647,3 +647,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 19:50:25.133] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1941, l='ServerLevel[world]', x=-229.88, y=113.00, z=94.96] died, message: 'Villager withered away'
 [10Dec2024 19:50:45.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Would you Like to Know More?]
 [10Dec2024 19:54:38.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [What a Deal!]
+[10Dec2024 20:00:35.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Isn't It Iron Pick]
