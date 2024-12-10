@@ -385,6 +385,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "was_in_fight": "2024-12-10 21:42:53 +0000"
+    },
+    "done": true
+  },
   "quark:get_forgotten_hat": {
     "criteria": {
       "get_forgotten_hat": "2024-12-10 21:31:38 +0000"
@@ -420,6 +426,12 @@
       "coded_trigger": "2024-12-10 20:48:23 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2024-12-10 21:42:53 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

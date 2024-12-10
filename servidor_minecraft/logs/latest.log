@@ -762,3 +762,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 21:34:05.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Where Is The Stone Pen?]
 [10Dec2024 21:37:49.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ was slain by Redcap
 [10Dec2024 21:37:49.694] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
+[10Dec2024 21:40:46.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Could not find a structure of type "twilightforest:naga_courtyard" nearby
+[10Dec2024 21:41:29.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gamerule sendCommandFeedback is now set to: true]
+[10Dec2024 21:41:31.747] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element twilightforest:naga_courtyard took 8 ms
+[10Dec2024 21:41:39.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported LastFist to -5382.500000, 27.000000, 488.500000]
+[10Dec2024 21:42:01.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> veni
+[10Dec2024 21:42:02.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> encontraste bro
+[10Dec2024 21:42:04.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> sizas
+[10Dec2024 21:42:04.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> tp
+[10Dec2024 21:42:15.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 1N_ to LastFist
+[10Dec2024 21:42:53.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has reached the goal [Time To Even The Scales]
+[10Dec2024 21:44:14.654] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element twilightforest:knight_stronghold took 8 ms
+[10Dec2024 21:44:40.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> -5655 520
+[10Dec2024 21:46:03.317] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element twilightforest:knight_stronghold took 8 ms
+[10Dec2024 21:46:06.107] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element twilightforest:knight_stronghold took 0 ms
+[10Dec2024 21:46:46.869] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element twilightforest:lich_tower took 5 ms
+[10Dec2024 21:46:57.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> -5399 1304
+[10Dec2024 21:48:36.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> enconteraste
+[10Dec2024 21:48:37.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> ?
+[10Dec2024 21:48:39.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> sizas
+[10Dec2024 21:48:44.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> tp
+[10Dec2024 21:48:53.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 1N_ to LastFist
+[10Dec2024 21:50:11.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gamerule sendCommandFeedback is now set to: false]
+[10Dec2024 21:50:24.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 1 [Anvil] to LastFist]
+[10Dec2024 21:50:38.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 1 [Bow] to LastFist]
