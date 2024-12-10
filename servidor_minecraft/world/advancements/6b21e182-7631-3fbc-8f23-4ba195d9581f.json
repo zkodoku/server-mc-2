@@ -485,9 +485,10 @@
   },
   "twilightforest:progress_lich": {
     "criteria": {
+      "kill_lich": "2024-12-10 22:02:08 +0000",
       "kill_naga": "2024-12-10 05:25:20 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
@@ -507,6 +508,24 @@
     },
     "done": true
   },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2024-12-10 22:02:08 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2024-12-10 22:02:08 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2024-12-10 22:02:08 +0000"
+    },
+    "done": false
+  },
   "quark:get_forgotten_hat": {
     "criteria": {
       "get_forgotten_hat": "2024-12-10 21:32:44 +0000"
@@ -519,9 +538,27 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2024-12-10 22:02:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-10 22:02:08 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2024-12-10 20:42:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_familiar_receptacle": "2024-12-10 22:02:08 +0000"
     },
     "done": true
   },

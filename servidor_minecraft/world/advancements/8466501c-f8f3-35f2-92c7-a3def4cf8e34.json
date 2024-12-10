@@ -247,6 +247,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-10 20:05:14 +0000",
       "minecraft:creeper": "2024-12-10 21:26:20 +0000",
+      "minecraft:witch": "2024-12-10 22:05:05 +0000",
       "minecraft:cave_spider": "2024-12-10 21:23:06 +0000",
       "minecraft:zombie": "2024-12-10 19:47:51 +0000"
     },
@@ -360,15 +361,35 @@
     },
     "done": true
   },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2024-12-10 22:02:08 +0000"
+    },
+    "done": false
+  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "kobold": "2024-12-10 20:59:07 +0000"
     },
     "done": true
   },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2024-12-10 22:02:08 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-10 22:05:05 +0000"
+    },
+    "done": true
+  },
   "twilightforest:arborist": {
     "criteria": {
+      "twilight_oak_planks": "2024-12-10 22:08:04 +0000",
       "canopy_planks": "2024-12-10 20:59:53 +0000",
+      "twilight_oak_log": "2024-12-10 22:08:01 +0000",
       "canopy_log": "2024-12-10 20:59:51 +0000"
     },
     "done": false
@@ -385,9 +406,21 @@
     },
     "done": true
   },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2024-12-10 22:02:08 +0000"
+    },
+    "done": false
+  },
   "twilightforest:progress_naga": {
     "criteria": {
       "was_in_fight": "2024-12-10 21:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-10 22:10:19 +0000"
     },
     "done": true
   },
@@ -429,9 +462,10 @@
   },
   "twilightforest:progress_lich": {
     "criteria": {
-      "kill_naga": "2024-12-10 21:42:53 +0000"
+      "kill_naga": "2024-12-10 21:42:53 +0000",
+      "was_in_fight": "2024-12-10 22:02:08 +0000"
     },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }

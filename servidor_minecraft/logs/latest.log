@@ -795,3 +795,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 21:59:09.695] [Server thread/INFO] [tombstone/]: The player LastFist has successfully been saved
 [10Dec2024 22:00:04.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Applied enchantment Unbreaking III to LastFist's item]
 [10Dec2024 22:00:16.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Applied enchantment Sharpness III to LastFist's item]
+[10Dec2024 22:01:40.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ succumbed to the Lich's explosive magic
+[10Dec2024 22:01:40.454] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
+[10Dec2024 22:01:52.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist succumbed to the Lich's explosive magic while escaping Lich Minion
+[10Dec2024 22:01:53.014] [Server thread/INFO] [tombstone/]: The player LastFist has successfully been saved
+[10Dec2024 22:02:08.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has reached the goal [Strong Undead]
+[10Dec2024 22:02:08.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has reached the goal [Bring Out Your Dead]
+[10Dec2024 22:02:08.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has reached the goal [Bring Out Your Dead]
+[10Dec2024 22:02:08.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Magic Writing]
+[10Dec2024 22:02:08.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Your First Receptacle]
+[10Dec2024 22:05:05.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Ambush]
+[10Dec2024 22:10:19.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Cover Me with Diamonds]
+[10Dec2024 22:10:33.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Cover Me with Diamonds]
