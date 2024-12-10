@@ -738,3 +738,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 03:56:53.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Red Bed] to LastFist
 [10Dec2024 03:58:10.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ was shot by Skeleton
 [10Dec2024 03:58:10.258] [Server thread/INFO] [tombstone/]: The player Direx__ has successfully been saved
+[10Dec2024 04:12:19.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ was slain by Zombie
+[10Dec2024 04:12:19.812] [Server thread/INFO] [tombstone/]: The player Direx__ has successfully been saved
+[10Dec2024 04:12:32.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist withered away
+[10Dec2024 04:12:32.418] [Server thread/INFO] [tombstone/]: The player LastFist has successfully been saved
