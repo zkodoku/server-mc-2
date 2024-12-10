@@ -735,3 +735,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 03:50:29.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> a mi nunca me ha salido
 [10Dec2024 03:50:38.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> entre vc
 [10Dec2024 03:50:45.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> going
+[10Dec2024 03:56:53.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Red Bed] to LastFist
+[10Dec2024 03:58:10.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ was shot by Skeleton
+[10Dec2024 03:58:10.258] [Server thread/INFO] [tombstone/]: The player Direx__ has successfully been saved
