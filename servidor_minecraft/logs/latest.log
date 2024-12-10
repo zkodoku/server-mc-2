@@ -881,3 +881,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 06:06:07.632] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/110013, l='ServerLevel[world]', x=-1123.50, y=73.00, z=-424.50]
 [10Dec2024 06:06:08.181] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/110018, l='ServerLevel[world]', x=-1125.50, y=73.00, z=-425.50]
 [10Dec2024 06:06:08.280] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/110019, l='ServerLevel[world]', x=-1242.50, y=71.00, z=-339.50]
+[10Dec2024 06:06:17.041] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/110101, l='ServerLevel[world]', x=-1170.50, y=73.00, z=-366.50]
+[10Dec2024 06:06:29.481] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/110182, l='ServerLevel[world]', x=-1160.50, y=74.00, z=-370.50]
+[10Dec2024 06:06:48.532] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/110332, l='ServerLevel[world]', x=-1169.50, y=73.00, z=-367.50]
+[10Dec2024 06:07:04.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ withered away whilst fighting Nightmare Stalker
+[10Dec2024 06:07:04.498] [Server thread/INFO] [tombstone/]: The player Direx__ has successfully been saved
+[10Dec2024 06:07:16.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ has reached the goal [Here They Come]
+[10Dec2024 06:07:25.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ withered away whilst fighting Nightmare Stalker
+[10Dec2024 06:07:25.371] [Server thread/INFO] [tombstone/]: The player Direx__ has successfully been saved
+[10Dec2024 06:07:48.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ was slain by Ghost
+[10Dec2024 06:07:48.630] [Server thread/INFO] [tombstone/]: The player Direx__ has successfully been saved
+[10Dec2024 06:08:23.582] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/113167, l='ServerLevel[world]', x=-1175.50, y=76.00, z=-352.50]
+[10Dec2024 06:08:32.032] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/113242, l='ServerLevel[world]', x=-1258.50, y=69.00, z=-333.50]
+[10Dec2024 06:10:14.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PamelaG moved too quickly! 5835.861827133884,58.07840000152588,1178.3555039442167
+[10Dec2024 06:12:13.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has made the advancement [The Parrots and the Bats]
+[10Dec2024 06:13:07.155] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Direx__ lost connection: Disconnected
+[10Dec2024 06:13:07.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ left the game
+[10Dec2024 06:13:07.157] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Direx__

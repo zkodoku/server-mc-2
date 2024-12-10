@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2024-12-10 06:12:13 +0000"
+    },
+    "done": false
+  },
   "friendsandfoes:misc/yellow_dye_from_buttercup": {
     "criteria": {
       "has_the_recipe": "2024-12-10 04:50:18 +0000"
@@ -216,9 +222,12 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2024-12-10 06:15:04 +0000",
       "apple": "2024-12-10 05:01:22 +0000",
       "potato": "2024-12-10 05:03:22 +0000",
-      "bread": "2024-12-10 05:04:12 +0000"
+      "mutton": "2024-12-10 06:06:44 +0000",
+      "bread": "2024-12-10 05:04:12 +0000",
+      "cooked_chicken": "2024-12-10 06:06:38 +0000"
     },
     "done": false
   },
@@ -291,6 +300,12 @@
   "explorerscompass:explorers_compass": {
     "criteria": {
       "has_recipe": "2024-12-10 04:50:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-10 06:12:13 +0000"
     },
     "done": true
   },
