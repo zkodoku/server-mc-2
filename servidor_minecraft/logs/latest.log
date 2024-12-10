@@ -807,3 +807,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 22:05:05.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Ambush]
 [10Dec2024 22:10:19.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Cover Me with Diamonds]
 [10Dec2024 22:10:33.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Cover Me with Diamonds]
+[10Dec2024 22:13:36.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 1 [Arrow] to LastFist]
+[10Dec2024 22:14:52.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [The Parrots and the Bats]

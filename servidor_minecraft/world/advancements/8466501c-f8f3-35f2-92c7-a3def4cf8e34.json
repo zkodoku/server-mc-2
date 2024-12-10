@@ -390,7 +390,14 @@
       "twilight_oak_planks": "2024-12-10 22:08:04 +0000",
       "canopy_planks": "2024-12-10 20:59:53 +0000",
       "twilight_oak_log": "2024-12-10 22:08:01 +0000",
+      "twilight_oak_sapling": "2024-12-10 22:18:10 +0000",
       "canopy_log": "2024-12-10 20:59:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2024-12-10 22:14:52 +0000"
     },
     "done": false
   },
@@ -457,6 +464,12 @@
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2024-12-10 20:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-10 22:14:52 +0000"
     },
     "done": true
   },

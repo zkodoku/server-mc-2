@@ -526,6 +526,12 @@
     },
     "done": false
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-12-10 22:10:33 +0000"
+    },
+    "done": true
+  },
   "quark:get_forgotten_hat": {
     "criteria": {
       "get_forgotten_hat": "2024-12-10 21:32:44 +0000"
