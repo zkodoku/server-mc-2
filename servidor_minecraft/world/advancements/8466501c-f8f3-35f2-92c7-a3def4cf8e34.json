@@ -358,6 +358,19 @@
     },
     "done": true
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "kobold": "2024-12-10 20:59:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "canopy_planks": "2024-12-10 20:59:53 +0000",
+      "canopy_log": "2024-12-10 20:59:51 +0000"
+    },
+    "done": false
+  },
   "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
       "killed_fire_dragon": "2024-12-10 20:44:53 +0000"
@@ -373,6 +386,12 @@
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2024-12-10 20:44:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2024-12-10 20:58:09 +0000"
     },
     "done": true
   },

@@ -723,3 +723,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 20:53:44.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Suit Up]
 [10Dec2024 20:58:09.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1N_ moved too quickly! -5833.465222984867,-57.92159999847412,-1180.1390415931637
 [10Dec2024 20:59:07.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [The Silence of the Forest]
+[10Dec2024 21:06:16.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 256 [Arrow] to LastFist]
+[10Dec2024 21:12:12.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seed: [779421459992709972]
+[10Dec2024 21:12:40.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> esa mrd aparece en cueva tambien ?
+[10Dec2024 21:12:47.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> nada
+[10Dec2024 21:12:57.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> aqui hay como una cueva full de mierdas
+[10Dec2024 21:13:26.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> hlowstone spawners etc
+[10Dec2024 21:14:16.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> mierrdz
+[10Dec2024 21:14:32.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> q paso bro
+[10Dec2024 21:14:39.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [The Boots Are Mine!]
+[10Dec2024 21:14:53.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> toy aca donde vos
+[10Dec2024 21:15:51.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Applied enchantment Power III to LastFist's item]
+[10Dec2024 21:16:23.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> onde andas
+[10Dec2024 21:16:27.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> explorando
+[10Dec2024 21:16:30.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> al s
+[10Dec2024 21:17:17.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> no hay na
+[10Dec2024 21:17:21.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Applied enchantment Infinity to LastFist's item]
+[10Dec2024 21:18:40.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> tpate a mi
+[10Dec2024 21:18:47.566] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element twilightforest:naga_courtyard took 11 ms
+[10Dec2024 21:18:57.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported LastFist to 1N_]
+[10Dec2024 21:19:54.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ was shot by LastFist
+[10Dec2024 21:19:54.799] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
