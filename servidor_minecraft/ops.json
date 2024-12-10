@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "6b21e182-7631-3fbc-8f23-4ba195d9581f",
+    "name": "LastFist",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

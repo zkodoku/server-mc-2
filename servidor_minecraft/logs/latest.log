@@ -785,3 +785,34 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 05:03:45.283] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5455ms or 109 ticks behind
 [10Dec2024 05:03:55.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LastFist moved too quickly! 9.14364542808994,1.2491870787446828,-4.070009391907178
 [10Dec2024 05:04:04.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has made the advancement [Sweet Dreams]
+[10Dec2024 05:05:33.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:minecrafgive'
+[10Dec2024 05:05:33.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... LastFist minecrafgive LastFist minecraft:iron_axe 2<--[HERE]
+[10Dec2024 05:05:51.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 2 [Iron Axe] to LastFist
+[10Dec2024 05:07:11.254] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@e155cb1[id=<null>,name=Direx__,properties={},legacy=false] (/127.208.65.80:54471) lost connection: Disconnected
+[10Dec2024 05:07:20.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has made the advancement [Best Friends Forever]
+[10Dec2024 05:07:32.124] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Direx__[/127.208.65.80:40427] logged in with entity id 38838 at (-913.6999999880791, -16.0, -190.30000001192093)
+[10Dec2024 05:07:32.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ joined the game
+[10Dec2024 05:07:35.853] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Direx__ (18)
+[10Dec2024 05:07:35.854] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Direx__
+[10Dec2024 05:07:43.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made LastFist a server operator
+[10Dec2024 05:07:57.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported PamelaG to LastFist]
+[10Dec2024 05:08:14.648] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e50f1a48-6546-39d5-a13b-5d2bad9a1ac9
+[10Dec2024 05:08:15.643] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e50f1a48-6546-39d5-a13b-5d2bad9a1ac9
+[10Dec2024 05:08:15.643] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Direx__ (e50f1a48-6546-39d5-a13b-5d2bad9a1ac9) successfully connected to voice chat
+[10Dec2024 05:08:29.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [The Silence of the Forest]
+[10Dec2024 05:08:56.944] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e50f1a48-6546-39d5-a13b-5d2bad9a1ac9 timed out
+[10Dec2024 05:08:56.945] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Direx__
+[10Dec2024 05:08:56.945] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Direx__
+[10Dec2024 05:09:02.356] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Direx__ lost connection: Timed out
+[10Dec2024 05:09:02.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ left the game
+[10Dec2024 05:09:02.357] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Direx__
+[10Dec2024 05:09:48.106] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Direx__[/127.208.65.80:50627] logged in with entity id 39906 at (-913.6999999880791, -16.0, -190.30000001192093)
+[10Dec2024 05:09:48.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ joined the game
+[10Dec2024 05:09:48.918] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Direx__ (18)
+[10Dec2024 05:09:48.918] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Direx__
+[10Dec2024 05:09:55.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Bug Stomper]
+[10Dec2024 05:10:15.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has made the advancement [Bug Stomper]
+[10Dec2024 05:10:15.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has made the advancement [The Silence of the Forest]
+[10Dec2024 05:10:19.015] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e50f1a48-6546-39d5-a13b-5d2bad9a1ac9
+[10Dec2024 05:10:21.736] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e50f1a48-6546-39d5-a13b-5d2bad9a1ac9
+[10Dec2024 05:10:21.736] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Direx__ (e50f1a48-6546-39d5-a13b-5d2bad9a1ac9) successfully connected to voice chat

@@ -23,6 +23,18 @@
     },
     "done": false
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "swarm_spider": "2024-12-10 05:10:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-10 05:07:20 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2024-12-10 04:50:18 +0000"
@@ -83,6 +95,12 @@
     },
     "done": false
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-10 05:04:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-12-10 04:51:40 +0000"
@@ -127,6 +145,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2024-12-10 05:02:02 +0000",
       "minecraft:river": "2024-12-10 04:56:21 +0000",
       "minecraft:forest": "2024-12-10 04:58:51 +0000",
       "minecraft:plains": "2024-12-10 04:50:19 +0000"
@@ -151,15 +170,41 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2024-12-10 05:01:22 +0000",
+      "potato": "2024-12-10 05:03:22 +0000",
+      "bread": "2024-12-10 05:04:12 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2024-12-10 04:50:19 +0000"
     },
     "done": false
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-10 05:01:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2024-12-10 05:03:29 +0000"
+    },
+    "done": true
+  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2024-12-10 04:50:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-10 05:03:24 +0000"
     },
     "done": true
   },
@@ -184,6 +229,12 @@
   "explorerscompass:explorers_compass": {
     "criteria": {
       "has_recipe": "2024-12-10 04:50:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hedge": {
+    "criteria": {
+      "swarm_spider": "2024-12-10 05:10:15 +0000"
     },
     "done": true
   },

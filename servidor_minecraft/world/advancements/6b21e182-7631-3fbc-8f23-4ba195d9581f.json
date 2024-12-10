@@ -441,9 +441,27 @@
     },
     "done": true
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "hedge_spider": "2024-12-10 05:08:29 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-10 03:19:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2024-12-10 05:05:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hedge": {
+    "criteria": {
+      "hedge_spider": "2024-12-10 05:09:55 +0000"
     },
     "done": true
   },
