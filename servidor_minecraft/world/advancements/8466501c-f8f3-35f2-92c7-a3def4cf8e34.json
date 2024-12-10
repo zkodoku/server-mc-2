@@ -411,6 +411,12 @@
     },
     "done": false
   },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "maze_wafer": "2024-12-10 22:41:22 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2024-12-10 21:23:36 +0000"
