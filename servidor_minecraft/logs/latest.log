@@ -742,3 +742,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 04:12:19.812] [Server thread/INFO] [tombstone/]: The player Direx__ has successfully been saved
 [10Dec2024 04:12:32.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist withered away
 [10Dec2024 04:12:32.418] [Server thread/INFO] [tombstone/]: The player LastFist has successfully been saved
+[10Dec2024 04:29:21.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:oak_plank'
+[10Dec2024 04:29:21.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... LastFist minecraft:oak_plank 512<--[HERE]
+[10Dec2024 04:29:44.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:wooden_block'
+[10Dec2024 04:29:44.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... LastFist minecraft:wooden_block 512<--[HERE]
+[10Dec2024 04:31:36.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 512 [Oak Planks] to LastFist
