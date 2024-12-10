@@ -42,6 +42,8 @@
 	"Invisibility Cloak visibility timer" = 50
 	#Makes it so that only whitelisted users or anyone with permission level 4 can use the Sun Altar on a server
 	"Only whitelisted users access Sun Altars" = false
+	#Configures what dimensions are able to have their time changed by the Sun Altar
+	"Configure Sun Altar dimensions" = ["aether:the_aether"]
 
 [Modpack]
 	#Spawns the player in the Aether dimension; this is best enabled alongside other modpack configuration to avoid issues
