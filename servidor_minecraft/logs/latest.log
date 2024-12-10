@@ -644,3 +644,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 19:47:45.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Acquire Hardware]
 [10Dec2024 19:47:51.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Monster Hunter]
 [10Dec2024 19:48:33.038] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/1553, l='ServerLevel[world]', x=-168.30, y=96.00, z=55.97] died, message: 'Nitwit was slain by Sprinter'
+[10Dec2024 19:50:25.133] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1941, l='ServerLevel[world]', x=-229.88, y=113.00, z=94.96] died, message: 'Villager withered away'
+[10Dec2024 19:50:45.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Would you Like to Know More?]
+[10Dec2024 19:54:38.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [What a Deal!]

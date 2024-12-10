@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2024-12-10 19:47:51 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/tame_cockatrice": {
     "criteria": {
       "tame_rat": "2024-12-10 19:41:04 +0000"
@@ -83,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-10 19:47:45 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_recipe": "2024-12-10 19:32:10 +0000"
@@ -107,6 +119,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-10 19:47:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-10 19:47:51 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/christmas": {
     "criteria": {
       "coded_trigger": "2024-12-10 19:32:10 +0000"
@@ -125,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-10 19:47:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2024-12-10 19:37:43 +0000",
@@ -134,9 +164,21 @@
     },
     "done": false
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-10 19:46:14 +0000"
+    },
+    "done": true
+  },
   "placeablesmod:placeables": {
     "criteria": {
       "placeables": "2024-12-10 19:32:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2024-12-10 19:50:45 +0000"
     },
     "done": true
   },
@@ -175,6 +217,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-10 19:32:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-10 19:54:38 +0000"
     },
     "done": true
   },
