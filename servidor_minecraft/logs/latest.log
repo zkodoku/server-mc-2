@@ -844,3 +844,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 05:31:58.709] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e50f1a48-6546-39d5-a13b-5d2bad9a1ac9
 [10Dec2024 05:31:58.709] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Direx__ (e50f1a48-6546-39d5-a13b-5d2bad9a1ac9) successfully connected to voice chat
 [10Dec2024 05:32:34.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Direx__ to LastFist
+[10Dec2024 05:37:21.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has reached the goal [Bone Crusher]
+[10Dec2024 05:37:38.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Hot Stuff]
+[10Dec2024 05:43:07.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ has made the advancement [The Silence of the Forest]
+[10Dec2024 05:43:07.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ has reached the goal [Time To Even The Scales]
+[10Dec2024 05:44:53.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has completed the challenge [Naga Armorer]

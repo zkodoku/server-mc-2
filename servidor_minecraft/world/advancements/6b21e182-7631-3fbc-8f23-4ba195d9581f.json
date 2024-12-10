@@ -441,9 +441,21 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-10 05:37:38 +0000"
+    },
+    "done": true
+  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "hedge_spider": "2024-12-10 05:08:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-10 05:37:21 +0000"
     },
     "done": true
   },
@@ -457,6 +469,12 @@
   "twilightforest:progress_naga": {
     "criteria": {
       "was_in_fight": "2024-12-10 05:25:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:naga_armors": {
+    "criteria": {
+      "armor": "2024-12-10 05:44:53 +0000"
     },
     "done": true
   },
