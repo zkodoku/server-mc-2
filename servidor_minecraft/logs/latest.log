@@ -812,3 +812,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 22:30:15.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has reached the goal [Trophied Champion]
 [10Dec2024 22:30:15.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has reached the goal [Trophied Champion]
 [10Dec2024 22:30:37.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 128 [Torch] to LastFist]
+[10Dec2024 22:32:08.811] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 6b21e182-7631-3fbc-8f23-4ba195d9581f timed out
+[10Dec2024 22:32:08.811] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player LastFist
+[10Dec2024 22:32:08.812] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to LastFist
+[10Dec2024 22:32:14.139] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LastFist lost connection: Timed out
+[10Dec2024 22:32:14.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist left the game
+[10Dec2024 22:32:14.141] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client LastFist
+[10Dec2024 22:32:14.195] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Dec2024 22:32:55.891] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LastFist[/127.175.198.153:51099] logged in with entity id 93159 at (-5931.341265119985, -5.0, 696.1635139678779)
+[10Dec2024 22:32:55.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist joined the game
+[10Dec2024 22:32:56.448] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of LastFist (18)
+[10Dec2024 22:32:56.449] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to LastFist
+[10Dec2024 22:33:08.797] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6b21e182-7631-3fbc-8f23-4ba195d9581f
+[10Dec2024 22:33:09.798] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6b21e182-7631-3fbc-8f23-4ba195d9581f
+[10Dec2024 22:33:09.799] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player LastFist (6b21e182-7631-3fbc-8f23-4ba195d9581f) successfully connected to voice chat
+[10Dec2024 22:33:45.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1N_ moved too quickly! -8.341846579570301,-4.378703159460809,4.218559360681638
+[10Dec2024 22:33:45.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4150ms or 83 ticks behind
+[10Dec2024 22:34:51.629] [Server thread/WARN] [tombstone/]: The death event of the player 1N_ was canceled by another mod
+[10Dec2024 22:34:51.642] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
+[10Dec2024 22:36:31.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has reached the goal [Strong Undead]
+[10Dec2024 22:36:37.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Back to childhood]
+[10Dec2024 22:36:37.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Not even afraid of death]
+[10Dec2024 22:37:07.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has reached the goal [Carminite Acclimation]
+[10Dec2024 22:37:07.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has reached the goal [Carminite Acclimation]
+[10Dec2024 22:37:15.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Your First Receptacle]
+[10Dec2024 22:40:02.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1N_ moved wrongly!

@@ -509,18 +509,42 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-10 20:42:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-10 20:42:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hill1": {
+    "criteria": {
+      "redcap": "2024-12-10 21:14:39 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2024-12-10 21:32:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2024-12-10 21:34:05 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
       "kill_lich": "2024-12-10 22:02:08 +0000",
       "trophy_pedestal": "2024-12-10 22:30:15 +0000"
     },
     "done": true
-  },
-  "twilightforest:progress_knights": {
-    "criteria": {
-      "previous_progression": "2024-12-10 22:30:15 +0000"
-    },
-    "done": false
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
@@ -534,24 +558,6 @@
     },
     "done": false
   },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_leggings": "2024-12-10 22:10:33 +0000"
-    },
-    "done": true
-  },
-  "quark:get_forgotten_hat": {
-    "criteria": {
-      "get_forgotten_hat": "2024-12-10 21:32:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_ghost": {
-    "criteria": {
-      "killed_fire_dragon": "2024-12-10 20:42:02 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/strong_undead": {
     "criteria": {
       "coded_trigger": "2024-12-10 22:02:08 +0000"
@@ -564,29 +570,30 @@
     },
     "done": true
   },
-  "tombstone:adventure/strong_or_careful": {
-    "criteria": {
-      "coded_trigger": "2024-12-10 20:42:48 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_familiar_receptacle": "2024-12-10 22:02:08 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/create_magic_tablet": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "has_magic_tablet": "2024-12-10 21:34:05 +0000"
+      "diamond_leggings": "2024-12-10 22:10:33 +0000"
     },
     "done": true
   },
-  "twilightforest:hill1": {
+  "twilightforest:progress_knights": {
     "criteria": {
-      "redcap": "2024-12-10 21:14:39 +0000"
+      "all_knights": "2024-12-10 22:37:07 +0000",
+      "previous_progression": "2024-12-10 22:30:15 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2024-12-10 22:37:07 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

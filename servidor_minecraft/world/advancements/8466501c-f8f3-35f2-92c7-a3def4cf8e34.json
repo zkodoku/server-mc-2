@@ -377,9 +377,10 @@
   },
   "twilightforest:progress_knights": {
     "criteria": {
-      "previous_progression": "2024-12-10 22:30:15 +0000"
+      "previous_progression": "2024-12-10 22:30:15 +0000",
+      "was_in_fight": "2024-12-10 22:37:07 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
@@ -458,6 +459,24 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2024-12-10 22:36:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2024-12-10 22:36:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_familiar_receptacle": "2024-12-10 22:37:15 +0000"
+    },
+    "done": true
+  },
   "twilightforest:root": {
     "criteria": {
       "in_tf": "2024-12-10 20:58:09 +0000"
@@ -473,6 +492,18 @@
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2024-12-10 20:48:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2024-12-10 22:37:07 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2024-12-10 22:36:37 +0000"
     },
     "done": true
   },
