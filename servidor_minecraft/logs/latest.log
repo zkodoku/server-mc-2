@@ -744,3 +744,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 21:18:57.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported LastFist to 1N_]
 [10Dec2024 21:19:54.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ was shot by LastFist
 [10Dec2024 21:19:54.799] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
+[10Dec2024 21:20:54.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Diamonds!]
+[10Dec2024 21:22:20.604] [Server thread/INFO] [twilightforest/]: GENERATING ORE TO BLOCK MAPPING
+[10Dec2024 21:23:04.685] [Server thread/WARN] [tombstone/]: The death event of the player LastFist was canceled by another mod
+[10Dec2024 21:23:04.693] [Server thread/INFO] [tombstone/]: The player LastFist has successfully been saved
+[10Dec2024 21:23:36.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Take Aim]
+[10Dec2024 21:27:05.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ was slain by Cave Spider
+[10Dec2024 21:27:05.593] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
+[10Dec2024 21:29:00.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> bro
+[10Dec2024 21:29:25.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> q fue
+[10Dec2024 21:29:33.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> donde tas
+[10Dec2024 21:29:38.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> t hago tp?
+[10Dec2024 21:29:44.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> sz
+[10Dec2024 21:30:00.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 1N_ to LastFist
