@@ -453,5 +453,17 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-12-10 04:46:28 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-10 04:46:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -747,3 +747,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 04:29:44.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:wooden_block'
 [10Dec2024 04:29:44.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... LastFist minecraft:wooden_block 512<--[HERE]
 [10Dec2024 04:31:36.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 512 [Oak Planks] to LastFist
+[10Dec2024 04:45:45.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 512 [Oak Planks] to LastFist
+[10Dec2024 04:46:28.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ has made the advancement [Chest Slayer]
+[10Dec2024 04:46:30.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ has made the advancement [Amateur Archaeologist]
+[10Dec2024 04:50:18.014] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PamelaG[/127.182.179.156:47497] logged in with entity id 30935 at (-0.5, 66.0, 1.5)
+[10Dec2024 04:50:18.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG joined the game
+[10Dec2024 04:50:18.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has made the advancement [Christmas]
+[10Dec2024 04:50:18.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has completed the challenge [The Undead]
+[10Dec2024 04:50:18.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has made the advancement [Ice and Fire]
+[10Dec2024 04:50:42.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported PamelaG to LastFist
+[10Dec2024 04:51:40.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has made the advancement [Monster Hunter]
+[10Dec2024 04:51:40.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has made the advancement [A Strange Grave Dust]
