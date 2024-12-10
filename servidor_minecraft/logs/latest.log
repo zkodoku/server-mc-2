@@ -757,3 +757,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 21:29:38.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> t hago tp?
 [10Dec2024 21:29:44.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> sz
 [10Dec2024 21:30:00.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 1N_ to LastFist
+[10Dec2024 21:31:38.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has reached the goal [This Belongs in a Museum]
+[10Dec2024 21:32:44.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has reached the goal [This Belongs in a Museum]
+[10Dec2024 21:34:05.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Where Is The Stone Pen?]
+[10Dec2024 21:37:49.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ was slain by Redcap
+[10Dec2024 21:37:49.694] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
