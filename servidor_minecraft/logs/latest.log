@@ -786,3 +786,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 21:50:11.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gamerule sendCommandFeedback is now set to: false]
 [10Dec2024 21:50:24.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 1 [Anvil] to LastFist]
 [10Dec2024 21:50:38.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 1 [Bow] to LastFist]
+[10Dec2024 21:57:18.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1N_ moved wrongly!
+[10Dec2024 21:58:19.188] [Server thread/WARN] [tombstone/]: The death event of the player 1N_ was canceled by another mod
+[10Dec2024 21:58:19.200] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
+[10Dec2024 21:58:40.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist succumbed to the Lich's explosive magic
+[10Dec2024 21:58:40.903] [Server thread/INFO] [tombstone/]: The player LastFist has successfully been saved
+[10Dec2024 21:59:09.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The Lich's aim was better than LastFist
+[10Dec2024 21:59:09.695] [Server thread/INFO] [tombstone/]: The player LastFist has successfully been saved
+[10Dec2024 22:00:04.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Applied enchantment Unbreaking III to LastFist's item]
+[10Dec2024 22:00:16.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Applied enchantment Sharpness III to LastFist's item]
