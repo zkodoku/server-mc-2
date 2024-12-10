@@ -713,3 +713,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 03:41:55.298] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@19df8c52[id=<null>,name=Direx__,properties={},legacy=false] (/127.208.65.80:47499) lost connection: Disconnected
 [10Dec2024 03:42:17.198] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@74253ebb[id=<null>,name=Direx__,properties={},legacy=false] (/127.208.65.80:57305) lost connection: Disconnected
 [10Dec2024 03:42:29.698] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@31429cd4[id=<null>,name=Direx__,properties={},legacy=false] (/127.208.65.80:35023) lost connection: Disconnected
+[10Dec2024 03:46:10.696] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@413119f9[id=<null>,name=Direx__,properties={},legacy=false] (/127.208.65.80:56439) lost connection: Disconnected
+[10Dec2024 03:46:22.531] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Direx__[/127.208.65.80:39563] logged in with entity id 13672 at (-820.838482547856, 74.0, -503.87452745904085)
+[10Dec2024 03:46:22.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ joined the game
+[10Dec2024 03:46:25.090] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Direx__ (18)
+[10Dec2024 03:46:25.091] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Direx__
+[10Dec2024 03:46:35.961] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e50f1a48-6546-39d5-a13b-5d2bad9a1ac9
+[10Dec2024 03:46:52.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[10Dec2024 03:46:59.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Direx__ to LastFist
+[10Dec2024 03:48:33.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> habla
+[10Dec2024 03:49:23.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> si no le sirve de pronto y es algo del servidor
+[10Dec2024 03:49:33.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> me sale una cosa de que no está conectado
+[10Dec2024 03:49:34.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> porque toca hacer unas vueltas pa que el vc sirva
+[10Dec2024 03:49:42.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> dele a la V
+[10Dec2024 03:49:44.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> ya
+[10Dec2024 03:49:57.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> tonces dejelo asi yo despues veo como soluciono
+[10Dec2024 03:50:10.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> mano el malparido de herobrine
+[10Dec2024 03:50:14.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> me anda chimbeando mucho
+[10Dec2024 03:50:26.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> pero cómo te sale?
+[10Dec2024 03:50:27.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> jajajaajaj
+[10Dec2024 03:50:29.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> a mi nunca me ha salido
+[10Dec2024 03:50:38.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> entre vc
+[10Dec2024 03:50:45.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> going
