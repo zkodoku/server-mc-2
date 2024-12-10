@@ -695,3 +695,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 20:29:28.380] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8466501c-f8f3-35f2-92c7-a3def4cf8e34
 [10Dec2024 20:29:29.383] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8466501c-f8f3-35f2-92c7-a3def4cf8e34
 [10Dec2024 20:29:29.383] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1N_ (8466501c-f8f3-35f2-92c7-a3def4cf8e34) successfully connected to voice chat
+[10Dec2024 20:30:45.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 128 [Hay Bale] to LastFist]
+[10Dec2024 20:30:52.273] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15164, l='ServerLevel[world]', x=-805.18, y=-256.00, z=-177.14] died, message: 'Villager was killed'
+[10Dec2024 20:31:12.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> ahora si tp
+[10Dec2024 20:31:30.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> ¿¿¿¿¿¿¿¿¿
+[10Dec2024 20:31:31.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> ¿¿
+[10Dec2024 20:31:33.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> voy
+[10Dec2024 20:31:42.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 1N_ to LastFist
+[10Dec2024 20:31:53.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> tenes el mod?
+[10Dec2024 20:31:55.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> si
+[10Dec2024 20:31:57.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> el voice

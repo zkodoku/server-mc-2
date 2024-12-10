@@ -1,19 +1,55 @@
 {
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2024-12-10 19:32:10 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:misc/yellow_dye_from_buttercup": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 19:32:10 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2024-12-10 19:32:10 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2024-12-10 19:32:10 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2024-12-10 19:32:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/christmas": {
+    "criteria": {
+      "coded_trigger": "2024-12-10 19:32:10 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2024-12-10 19:32:10 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2024-12-10 19:32:10 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2024-12-10 19:32:11 +0000"
-    },
-    "done": true
-  },
-  "mutantmonsters:root": {
-    "criteria": {
-      "killed_something": "2024-12-10 19:47:51 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/tame_cockatrice": {
-    "criteria": {
-      "tame_rat": "2024-12-10 19:41:04 +0000"
     },
     "done": true
   },
@@ -26,48 +62,6 @@
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2024-12-10 19:32:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 20:26:33 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2024-12-10 19:41:04 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 20:26:33 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2024-12-10 20:23:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2024-12-10 20:00:35 +0000"
-    },
-    "done": true
-  },
-  "explorerscompass:explorers_compass_cracked_stone_bricks": {
-    "criteria": {
-      "has_recipe": "2024-12-10 19:32:10 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 20:26:33 +0000"
     },
     "done": false
   },
@@ -89,51 +83,74 @@
     },
     "done": true
   },
-  "tombstone:adventure/find_grave_dust": {
+  "incendium:technical/using/trailblazer": {
     "criteria": {
-      "from_undead": "2024-12-10 20:23:32 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_grave_key": {
-    "criteria": {
-      "has_ingredient": "2024-12-10 20:19:51 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_grave": {
-    "criteria": {
-      "coded_trigger": "2024-12-10 20:19:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2024-12-10 19:36:39 +0000"
-    },
-    "done": true
-  },
-  "friendsandfoes:misc/yellow_dye_from_buttercup": {
-    "criteria": {
-      "has_the_recipe": "2024-12-10 19:32:10 +0000"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass_log": {
-    "criteria": {
-      "has_recipe": "2024-12-10 19:32:10 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 20:26:33 +0000"
+      "log_spam_fixer": "2024-12-10 19:32:11 +0000"
     },
     "done": false
   },
-  "minecraft:story/upgrade_tools": {
+  "mowziesmobs:root": {
     "criteria": {
-      "stone_pickaxe": "2024-12-10 19:36:58 +0000"
+      "custom_test_name": "2024-12-10 19:32:11 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-12-10 19:32:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cherry_grove": "2024-12-10 20:14:03 +0000",
+      "minecraft:river": "2024-12-10 19:37:43 +0000",
+      "minecraft:dripstone_caves": "2024-12-10 19:56:03 +0000",
+      "minecraft:forest": "2024-12-10 19:34:11 +0000",
+      "minecraft:meadow": "2024-12-10 19:39:37 +0000",
+      "minecraft:plains": "2024-12-10 19:32:11 +0000"
+    },
+    "done": false
+  },
+  "placeablesmod:placeables": {
+    "criteria": {
+      "placeables": "2024-12-10 19:32:11 +0000"
+    },
+    "done": true
+  },
+  "eeeabsmobs:eeeabsmobs/root": {
+    "criteria": {
+      "requirement": "2024-12-10 19:32:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-10 19:32:11 +0000"
+    },
+    "done": false
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-12-10 19:32:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-12-10 19:32:11 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-10 19:32:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2024-12-10 19:32:11 +0000"
     },
     "done": true
   },
@@ -143,21 +160,66 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:husbandry/root": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 20:26:33 +0000"
+      "consumed_item": "2024-12-10 19:32:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-10 19:34:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2024-12-10 19:35:38 +0000",
+      "mutton": "2024-12-10 19:39:07 +0000",
+      "bread": "2024-12-10 19:44:06 +0000",
+      "cooked_chicken": "2024-12-10 20:18:12 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:story/mine_stone": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 20:26:33 +0000"
+      "get_stone": "2024-12-10 19:36:39 +0000"
     },
-    "done": false
+    "done": true
   },
-  "tombstone:adventure/choose_knowledge": {
+  "minecraft:story/upgrade_tools": {
     "criteria": {
-      "coded_trigger": "2024-12-10 20:21:18 +0000"
+      "stone_pickaxe": "2024-12-10 19:36:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2024-12-10 19:41:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_cockatrice": {
+    "criteria": {
+      "tame_rat": "2024-12-10 19:41:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-10 19:41:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-10 19:41:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-10 19:46:14 +0000"
     },
     "done": true
   },
@@ -167,33 +229,9 @@
     },
     "done": true
   },
-  "naturescompass:natures_compass": {
+  "mutantmonsters:root": {
     "criteria": {
-      "has_recipe": "2024-12-10 19:32:10 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:all_dungeons": {
-    "criteria": {
-      "in_better_monster_room": "2024-12-10 20:22:59 +0000"
-    },
-    "done": false
-  },
-  "naturescompass:natures_compass_sapling": {
-    "criteria": {
-      "has_recipe": "2024-12-10 19:32:10 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/using/trailblazer": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 19:32:11 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2024-12-10 19:41:31 +0000"
+      "killed_something": "2024-12-10 19:47:51 +0000"
     },
     "done": true
   },
@@ -210,80 +248,9 @@
     },
     "done": false
   },
-  "tombstone:adventure/christmas": {
-    "criteria": {
-      "coded_trigger": "2024-12-10 19:32:10 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:root": {
-    "criteria": {
-      "custom_test_name": "2024-12-10 19:32:11 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/teleport_to_grave": {
-    "criteria": {
-      "coded_trigger": "2024-12-10 20:20:38 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:small_dungeon": {
-    "criteria": {
-      "in_better_monster_room": "2024-12-10 20:22:59 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:root": {
-    "criteria": {
-      "always": "2024-12-10 19:32:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2024-12-10 19:47:51 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_grave_dust": {
-    "criteria": {
-      "has_ingredient": "2024-12-10 20:20:23 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 20:26:33 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:cherry_grove": "2024-12-10 20:14:03 +0000",
-      "minecraft:river": "2024-12-10 19:37:43 +0000",
-      "minecraft:dripstone_caves": "2024-12-10 19:56:03 +0000",
-      "minecraft:forest": "2024-12-10 19:34:11 +0000",
-      "minecraft:meadow": "2024-12-10 19:39:37 +0000",
-      "minecraft:plains": "2024-12-10 19:32:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 20:26:33 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2024-12-10 19:46:14 +0000"
-    },
-    "done": true
-  },
-  "placeablesmod:placeables": {
-    "criteria": {
-      "placeables": "2024-12-10 19:32:11 +0000"
     },
     "done": true
   },
@@ -293,21 +260,33 @@
     },
     "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 20:26:33 +0000"
-    },
-    "done": false
-  },
-  "explorerscompass:explorers_compass_cobweb": {
-    "criteria": {
-      "has_recipe": "2024-12-10 19:32:10 +0000"
+      "traded": "2024-12-10 19:54:38 +0000"
     },
     "done": true
   },
-  "eeeabsmobs:eeeabsmobs/root": {
+  "minecraft:story/iron_tools": {
     "criteria": {
-      "requirement": "2024-12-10 19:32:11 +0000"
+      "iron_pickaxe": "2024-12-10 20:00:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-10 20:19:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2024-12-10 20:19:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-12-10 20:19:51 +0000"
     },
     "done": true
   },
@@ -317,60 +296,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "tombstone:recipes/from_grave_dust": {
     "criteria": {
-      "cooked_mutton": "2024-12-10 19:35:38 +0000",
-      "mutton": "2024-12-10 19:39:07 +0000",
-      "bread": "2024-12-10 19:44:06 +0000",
-      "cooked_chicken": "2024-12-10 20:18:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/using/shield": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 19:32:11 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:iceandfire/rotten_egg": {
-    "criteria": {
-      "bestiary": "2024-12-10 19:41:03 +0000"
+      "has_ingredient": "2024-12-10 20:20:23 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/create_magic_scroll": {
+  "tombstone:adventure/teleport_to_grave": {
     "criteria": {
-      "has_magic_scroll": "2024-12-10 20:25:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-12-10 19:32:32 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 20:26:33 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/enchant_grave_key": {
-    "criteria": {
-      "has_upgraded_grave_key": "2024-12-10 20:19:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2024-12-10 19:54:38 +0000"
-    },
-    "done": true
-  },
-  "betterdeserttemples:root": {
-    "criteria": {
-      "always": "2024-12-10 19:32:11 +0000"
+      "coded_trigger": "2024-12-10 20:20:38 +0000"
     },
     "done": true
   },
@@ -380,47 +314,41 @@
     },
     "done": true
   },
-  "tombstone:adventure/root": {
+  "tombstone:adventure/choose_knowledge": {
     "criteria": {
-      "auto": "2024-12-10 19:32:11 +0000"
+      "coded_trigger": "2024-12-10 20:21:18 +0000"
     },
     "done": true
   },
-  "cataclysm:root": {
+  "betterdungeons:all_dungeons": {
     "criteria": {
-      "custom_test_name": "2024-12-10 19:32:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2024-12-10 19:34:43 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/new_player": {
-    "criteria": {
-      "requirement": "2024-12-10 19:32:11 +0000"
-    },
-    "done": true
-  },
-  "explorerscompass:explorers_compass": {
-    "criteria": {
-      "has_recipe": "2024-12-10 19:32:10 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 20:26:33 +0000"
+      "in_better_monster_room": "2024-12-10 20:22:59 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_kill": {
+  "betterdungeons:small_dungeon": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 20:26:33 +0000"
+      "in_better_monster_room": "2024-12-10 20:22:59 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-10 20:23:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-10 20:23:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-10 20:25:40 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
