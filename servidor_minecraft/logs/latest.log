@@ -854,3 +854,30 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 05:52:16.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamerule<--[HERE]
 [10Dec2024 05:54:26.913] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/101352, l='ServerLevel[world]', x=-935.07, y=73.13, z=39.82] died, message: 'Villager burned to death'
 [10Dec2024 05:55:02.500] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/101677, l='ServerLevel[world]', x=-949.66, y=72.18, z=40.46] died, message: 'Leatherworker burned to death'
+[10Dec2024 05:56:58.275] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2148ms or 42 ticks behind
+[10Dec2024 05:58:10.286] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/104617, l='ServerLevel[world]', x=-1143.50, y=74.00, z=-372.50]
+[10Dec2024 05:58:38.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported LastFist to PamelaG]
+[10Dec2024 05:59:19.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported LastFist to Direx__]
+[10Dec2024 05:59:47.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has made the advancement [Knowledge of Death]
+[10Dec2024 05:59:47.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has reached the goal [Strong or Careful]
+[10Dec2024 05:59:47.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG was slain by Fire Dragon
+[10Dec2024 05:59:47.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has made the advancement [Your First Grave]
+[10Dec2024 05:59:47.119] [Server thread/INFO] [tombstone/]: The player PamelaG has successfully been saved
+[10Dec2024 05:59:48.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has made the advancement [The Most Useful Key]
+[10Dec2024 06:00:02.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has reached the goal [A Fast Comeback]
+[10Dec2024 06:00:28.636] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/105977, l='ServerLevel[world]', x=-1117.50, y=75.00, z=-414.50]
+[10Dec2024 06:01:41.332] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/106560, l='ServerLevel[world]', x=-1141.50, y=74.00, z=-370.50]
+[10Dec2024 06:02:16.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ has made the advancement [Mine? Mine? Mine?]
+[10Dec2024 06:02:18.851] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PamelaG moved too quickly! -5833.8310661198475,-57.92159999847412,-1179.6826925901423
+[10Dec2024 06:02:36.195] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LastFist lost connection: Disconnected
+[10Dec2024 06:02:36.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist left the game
+[10Dec2024 06:02:36.200] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client LastFist
+[10Dec2024 06:02:58.410] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[10Dec2024 06:02:58.700] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[10Dec2024 06:03:56.631] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/108673, l='ServerLevel[world]', x=-1243.50, y=71.00, z=-341.50]
+[10Dec2024 06:04:21.331] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/109065, l='ServerLevel[world]', x=-1160.50, y=74.00, z=-369.50]
+[10Dec2024 06:05:35.782] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/109821, l='ServerLevel[world]', x=-1141.50, y=74.00, z=-372.50]
+[10Dec2024 06:05:42.331] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/109833, l='ServerLevel[world]', x=-1115.50, y=75.00, z=-426.50]
+[10Dec2024 06:06:07.632] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/110013, l='ServerLevel[world]', x=-1123.50, y=73.00, z=-424.50]
+[10Dec2024 06:06:08.181] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/110018, l='ServerLevel[world]', x=-1125.50, y=73.00, z=-425.50]
+[10Dec2024 06:06:08.280] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/110019, l='ServerLevel[world]', x=-1242.50, y=71.00, z=-339.50]

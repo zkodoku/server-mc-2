@@ -71,11 +71,23 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2024-12-10 05:59:48 +0000"
+    },
+    "done": true
+  },
   "twilightforest:arborist": {
     "criteria": {
       "twilight_oak_sapling": "2024-12-10 05:41:39 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-10 05:59:47 +0000"
+    },
+    "done": true
   },
   "friendsandfoes:misc/yellow_dye_from_buttercup": {
     "criteria": {
@@ -86,6 +98,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2024-12-10 04:50:18 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2024-12-10 05:56:32 +0000"
     },
     "done": true
   },
@@ -142,6 +160,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2024-12-10 04:50:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-10 06:00:02 +0000"
     },
     "done": true
   },
@@ -204,9 +228,21 @@
     },
     "done": false
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-10 05:59:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-10 05:01:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-12-10 05:59:48 +0000"
     },
     "done": true
   },
@@ -219,6 +255,12 @@
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2024-12-10 04:50:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-10 05:59:47 +0000"
     },
     "done": true
   },
