@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-10 06:23:35 +0000"
+    },
+    "done": false
+  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "swarm_spider": "2024-12-10 05:10:15 +0000"
@@ -41,11 +47,23 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-10 06:23:35 +0000"
+    },
+    "done": false
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2024-12-10 04:50:18 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-10 06:23:35 +0000"
+    },
+    "done": false
   },
   "incendium:technical/using/ragnarok": {
     "criteria": {
@@ -107,11 +125,29 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-10 06:23:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-10 06:23:35 +0000"
+    },
+    "done": false
+  },
   "dungeons_arise:find_greenwood_pub": {
     "criteria": {
       "location0": "2024-12-10 05:56:32 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-10 06:23:35 +0000"
+    },
+    "done": false
   },
   "naturescompass:natures_compass": {
     "criteria": {
@@ -193,6 +229,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-10 06:23:35 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2024-12-10 05:02:02 +0000",
@@ -202,11 +244,23 @@
     },
     "done": false
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-10 06:23:35 +0000"
+    },
+    "done": false
+  },
   "placeablesmod:placeables": {
     "criteria": {
       "placeables": "2024-12-10 04:50:18 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-10 06:23:35 +0000"
+    },
+    "done": false
   },
   "explorerscompass:explorers_compass_cobweb": {
     "criteria": {
@@ -248,6 +302,12 @@
       "consumed_item": "2024-12-10 05:01:22 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-10 06:23:35 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
@@ -302,6 +362,18 @@
       "has_recipe": "2024-12-10 04:50:18 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-10 06:23:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-10 06:23:35 +0000"
+    },
+    "done": false
   },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
