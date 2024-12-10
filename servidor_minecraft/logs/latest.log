@@ -653,3 +653,45 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 20:15:27.790] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [10Dec2024 20:15:27.790] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [10Dec2024 20:15:27.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2130ms or 42 ticks behind
+[10Dec2024 20:19:50.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ was slain by Ferrous Wroughtnaut
+[10Dec2024 20:19:50.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Your First Grave]
+[10Dec2024 20:19:50.217] [Server thread/INFO] [tombstone/]: The player 1N_ has successfully been saved
+[10Dec2024 20:19:51.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [The Most Useful Key]
+[10Dec2024 20:20:20.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has reached the goal [Here They Come]
+[10Dec2024 20:20:38.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Knowledge of Death]
+[10Dec2024 20:20:38.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has reached the goal [A Fast Comeback]
+[10Dec2024 20:21:00.657] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LastFist[/127.175.198.153:45043] logged in with entity id 11652 at (-799.9756097095142, 64.0, -176.58372432894024)
+[10Dec2024 20:21:00.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist joined the game
+[10Dec2024 20:21:04.317] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of LastFist (18)
+[10Dec2024 20:21:04.318] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to LastFist
+[10Dec2024 20:21:07.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> q dice el last
+[10Dec2024 20:21:18.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Knowledge raises the soul]
+[10Dec2024 20:21:22.206] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6b21e182-7631-3fbc-8f23-4ba195d9581f
+[10Dec2024 20:21:23.208] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6b21e182-7631-3fbc-8f23-4ba195d9581f
+[10Dec2024 20:21:23.212] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player LastFist (6b21e182-7631-3fbc-8f23-4ba195d9581f) successfully connected to voice chat
+[10Dec2024 20:21:28.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> me hizo mierda
+[10Dec2024 20:21:41.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> te hago tp
+[10Dec2024 20:21:43.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> a la house
+[10Dec2024 20:21:44.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> o ke
+[10Dec2024 20:21:44.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> pera
+[10Dec2024 20:22:59.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Quite the Renovation]
+[10Dec2024 20:23:32.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [A Strange Grave Dust]
+[10Dec2024 20:23:57.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Not Today, Thank You]
+[10Dec2024 20:25:40.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [Magic Writing]
+[10Dec2024 20:26:08.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> tenes voice
+[10Dec2024 20:26:43.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gamerule sendCommandFeedback is now set to: false]
+[10Dec2024 20:26:46.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> sizas
+[10Dec2024 20:27:08.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 128 [Glass] to LastFist]
+[10Dec2024 20:27:18.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> yo no lo instale
+[10Dec2024 20:27:26.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1N_> pera lo instalo rapido
+[10Dec2024 20:27:29.551] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1N_ lost connection: Disconnected
+[10Dec2024 20:27:29.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ left the game
+[10Dec2024 20:27:29.555] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client 1N_
+[10Dec2024 20:28:54.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 1 [Lava Bucket] to LastFist]
+[10Dec2024 20:29:20.568] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1N_[/127.157.141.99:53259] logged in with entity id 14468 at (-143.8402483219987, 23.0, 50.02692594327602)
+[10Dec2024 20:29:20.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ joined the game
+[10Dec2024 20:29:21.681] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of 1N_ (18)
+[10Dec2024 20:29:21.682] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to 1N_
+[10Dec2024 20:29:28.380] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8466501c-f8f3-35f2-92c7-a3def4cf8e34
+[10Dec2024 20:29:29.383] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8466501c-f8f3-35f2-92c7-a3def4cf8e34
+[10Dec2024 20:29:29.383] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1N_ (8466501c-f8f3-35f2-92c7-a3def4cf8e34) successfully connected to voice chat

@@ -212,6 +212,7 @@
       "minecraft:skeleton": "2024-12-08 20:06:59 +0000",
       "minecraft:vindicator": "2024-12-09 03:35:48 +0000",
       "minecraft:spider": "2024-12-08 20:07:04 +0000",
+      "minecraft:enderman": "2024-12-10 20:22:19 +0000",
       "minecraft:zombie": "2024-12-09 03:18:59 +0000"
     },
     "done": false
@@ -441,103 +442,6 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2024-12-10 05:37:38 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 06:02:35 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:twilight_hunter": {
-    "criteria": {
-      "hedge_spider": "2024-12-10 05:08:29 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 06:02:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 06:02:35 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/bone_crusher": {
-    "criteria": {
-      "coded_trigger": "2024-12-10 05:37:21 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:arborist": {
-    "criteria": {
-      "twilight_oak_log": "2024-12-10 05:20:13 +0000",
-      "twilight_oak_wood": "2024-12-10 05:31:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 06:02:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 06:02:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 06:02:35 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:progress_naga": {
-    "criteria": {
-      "was_in_fight": "2024-12-10 05:25:20 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:naga_armors": {
-    "criteria": {
-      "armor": "2024-12-10 05:44:53 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 06:02:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 06:02:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 06:02:35 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 06:02:35 +0000"
-    },
-    "done": false
-  },
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-10 03:19:35 +0000"
@@ -550,17 +454,30 @@
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "twilightforest:twilight_hunter": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 06:02:35 +0000"
+      "hedge_spider": "2024-12-10 05:08:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hedge": {
+    "criteria": {
+      "hedge_spider": "2024-12-10 05:09:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_log": "2024-12-10 05:20:13 +0000",
+      "twilight_oak_wood": "2024-12-10 05:31:25 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_kill": {
+  "twilightforest:progress_naga": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 06:02:35 +0000"
+      "was_in_fight": "2024-12-10 05:25:20 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_lich": {
     "criteria": {
@@ -568,9 +485,21 @@
     },
     "done": false
   },
-  "twilightforest:hedge": {
+  "tombstone:adventure/bone_crusher": {
     "criteria": {
-      "hedge_spider": "2024-12-10 05:09:55 +0000"
+      "coded_trigger": "2024-12-10 05:37:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-10 05:37:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:naga_armors": {
+    "criteria": {
+      "armor": "2024-12-10 05:44:53 +0000"
     },
     "done": true
   },
