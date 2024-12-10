@@ -503,5 +503,17 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-10 20:42:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-10 20:42:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
