@@ -23,6 +23,12 @@
     },
     "done": false
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2024-12-10 05:26:14 +0000"
+    },
+    "done": true
+  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "swarm_spider": "2024-12-10 05:10:15 +0000"
@@ -83,6 +89,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2024-12-10 05:25:20 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2024-12-10 04:50:18 +0000"
@@ -109,7 +121,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2024-12-10 04:51:40 +0000"
+      "minecraft:skeleton": "2024-12-10 04:51:40 +0000",
+      "minecraft:spider": "2024-12-10 05:27:13 +0000"
     },
     "done": false
   },
@@ -231,6 +244,12 @@
       "has_recipe": "2024-12-10 04:50:18 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2024-12-10 05:25:20 +0000"
+    },
+    "done": false
   },
   "twilightforest:hedge": {
     "criteria": {

@@ -816,3 +816,31 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 05:10:19.015] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e50f1a48-6546-39d5-a13b-5d2bad9a1ac9
 [10Dec2024 05:10:21.736] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e50f1a48-6546-39d5-a13b-5d2bad9a1ac9
 [10Dec2024 05:10:21.736] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Direx__ (e50f1a48-6546-39d5-a13b-5d2bad9a1ac9) successfully connected to voice chat
+[10Dec2024 05:21:36.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported LastFist to PamelaG]
+[10Dec2024 05:21:49.298] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Direx__ lost connection: Timed out
+[10Dec2024 05:21:49.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ left the game
+[10Dec2024 05:21:49.300] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Direx__
+[10Dec2024 05:24:30.817] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Direx__[/127.208.65.80:59675] logged in with entity id 47972 at (-6656.0491883355235, 5.0, -1348.3909347434164)
+[10Dec2024 05:24:30.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ joined the game
+[10Dec2024 05:24:35.198] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Direx__ (18)
+[10Dec2024 05:24:35.199] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Direx__
+[10Dec2024 05:24:40.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LastFist moved wrongly!
+[10Dec2024 05:24:52.095] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e50f1a48-6546-39d5-a13b-5d2bad9a1ac9
+[10Dec2024 05:24:53.119] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e50f1a48-6546-39d5-a13b-5d2bad9a1ac9
+[10Dec2024 05:24:53.119] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Direx__ (e50f1a48-6546-39d5-a13b-5d2bad9a1ac9) successfully connected to voice chat
+[10Dec2024 05:25:20.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has reached the goal [Time To Even The Scales]
+[10Dec2024 05:25:20.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has reached the goal [Time To Even The Scales]
+[10Dec2024 05:26:14.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PamelaG has made the advancement [Suit Up]
+[10Dec2024 05:29:09.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Direx__ to LastFist
+[10Dec2024 05:29:57.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Direx__ was kicked for floating too long!
+[10Dec2024 05:29:57.698] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Direx__ lost connection: Flying is not enabled on this server
+[10Dec2024 05:29:57.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ left the game
+[10Dec2024 05:29:57.699] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Direx__
+[10Dec2024 05:31:46.460] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Direx__[/127.208.65.80:38329] logged in with entity id 66123 at (-6310.740000635823, 1.0013359791121474, -1247.2787161842596)
+[10Dec2024 05:31:46.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ joined the game
+[10Dec2024 05:31:48.204] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Direx__ (18)
+[10Dec2024 05:31:48.205] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Direx__
+[10Dec2024 05:31:57.609] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e50f1a48-6546-39d5-a13b-5d2bad9a1ac9
+[10Dec2024 05:31:58.709] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e50f1a48-6546-39d5-a13b-5d2bad9a1ac9
+[10Dec2024 05:31:58.709] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Direx__ (e50f1a48-6546-39d5-a13b-5d2bad9a1ac9) successfully connected to voice chat
+[10Dec2024 05:32:34.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Direx__ to LastFist
