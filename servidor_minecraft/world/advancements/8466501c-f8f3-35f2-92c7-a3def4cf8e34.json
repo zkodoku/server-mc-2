@@ -249,6 +249,7 @@
       "minecraft:creeper": "2024-12-10 21:26:20 +0000",
       "minecraft:witch": "2024-12-10 22:05:05 +0000",
       "minecraft:cave_spider": "2024-12-10 21:23:06 +0000",
+      "minecraft:silverfish": "2024-12-10 22:29:41 +0000",
       "minecraft:zombie": "2024-12-10 19:47:51 +0000"
     },
     "done": false
@@ -363,15 +364,22 @@
   },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "kill_lich": "2024-12-10 22:02:08 +0000"
+      "kill_lich": "2024-12-10 22:02:08 +0000",
+      "trophy_pedestal": "2024-12-10 22:30:15 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "kobold": "2024-12-10 20:59:07 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2024-12-10 22:30:15 +0000"
+    },
+    "done": false
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
@@ -389,6 +397,7 @@
     "criteria": {
       "twilight_oak_planks": "2024-12-10 22:08:04 +0000",
       "canopy_planks": "2024-12-10 20:59:53 +0000",
+      "twilight_oak_chest": "2024-12-10 22:21:46 +0000",
       "twilight_oak_log": "2024-12-10 22:08:01 +0000",
       "twilight_oak_sapling": "2024-12-10 22:18:10 +0000",
       "canopy_log": "2024-12-10 20:59:51 +0000"

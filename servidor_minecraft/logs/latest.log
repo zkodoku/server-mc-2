@@ -809,3 +809,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 22:10:33.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Cover Me with Diamonds]
 [10Dec2024 22:13:36.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 1 [Arrow] to LastFist]
 [10Dec2024 22:14:52.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has made the advancement [The Parrots and the Bats]
+[10Dec2024 22:30:15.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has reached the goal [Trophied Champion]
+[10Dec2024 22:30:15.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1N_ has reached the goal [Trophied Champion]
+[10Dec2024 22:30:37.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 128 [Torch] to LastFist]
