@@ -496,87 +496,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 01:20:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 01:20:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 01:20:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 01:20:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 01:20:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 01:20:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 01:20:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 01:20:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 01:20:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 01:20:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 01:20:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 01:20:53 +0000"
-    },
-    "done": false
-  },
-  "aether:icestone": {
-    "criteria": {
-      "icestone": "2024-12-11 00:55:48 +0000"
-    },
-    "done": true
-  },
   "aether:enter_aether": {
     "criteria": {
       "enter_aether": "2024-12-11 00:43:50 +0000"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2024-12-11 00:43:50 +0000"
     },
     "done": true
   },
@@ -586,27 +514,27 @@
     },
     "done": true
   },
-  "aether:zanite": {
-    "criteria": {
-      "zanite": "2024-12-11 00:57:11 +0000"
-    },
-    "done": true
-  },
   "aether:obtain_egg": {
     "criteria": {
       "moa_egg": "2024-12-11 00:52:02 +0000"
     },
     "done": true
   },
-  "aether:bronze_dungeon": {
+  "aether:icestone": {
     "criteria": {
-      "kill_slider": "2024-12-11 01:00:55 +0000"
+      "icestone": "2024-12-11 00:55:48 +0000"
     },
     "done": true
   },
-  "aether:the_aether": {
+  "aether:zanite": {
     "criteria": {
-      "the_aether": "2024-12-11 00:43:50 +0000"
+      "zanite": "2024-12-11 00:57:11 +0000"
+    },
+    "done": true
+  },
+  "aether:bronze_dungeon": {
+    "criteria": {
+      "kill_slider": "2024-12-11 01:00:55 +0000"
     },
     "done": true
   },
