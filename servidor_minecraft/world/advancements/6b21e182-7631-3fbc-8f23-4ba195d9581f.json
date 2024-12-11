@@ -67,7 +67,7 @@
   },
   "undead_revamp2:theundeadchallenges": {
     "criteria": {
-      "theundeadchallenges": "2024-12-08 19:32:06 +0000"
+      "theundeadchallenges_0": "2024-12-10 23:51:29 +0000"
     },
     "done": true
   },
@@ -80,12 +80,6 @@
   "betterdungeons:root": {
     "criteria": {
       "always": "2024-12-08 19:32:06 +0000"
-    },
-    "done": true
-  },
-  "placeablesmod:placeables": {
-    "criteria": {
-      "placeables": "2024-12-08 19:32:06 +0000"
     },
     "done": true
   },
@@ -440,12 +434,6 @@
     },
     "done": true
   },
-  "supplementaries:adventure/way_sign": {
-    "criteria": {
-      "bastion": "2024-12-09 04:35:55 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-10 03:19:35 +0000"
@@ -570,12 +558,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_familiar_receptacle": {
-    "criteria": {
-      "has_familiar_receptacle": "2024-12-10 22:02:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2024-12-10 22:10:33 +0000"
@@ -589,75 +571,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "twilightforest:progress_ur_ghast": {
     "criteria": {
-      "log_spam_fixer": "2024-12-10 23:09:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 23:09:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 23:09:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 23:09:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 23:09:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 23:09:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 23:09:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 23:09:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 23:09:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 23:09:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 23:09:45 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-10 23:09:45 +0000"
+      "previous_progression": "2024-12-10 22:37:07 +0000"
     },
     "done": false
   },
@@ -666,12 +582,6 @@
       "coded_trigger": "2024-12-10 22:51:56 +0000"
     },
     "done": true
-  },
-  "twilightforest:progress_ur_ghast": {
-    "criteria": {
-      "previous_progression": "2024-12-10 22:37:07 +0000"
-    },
-    "done": false
   },
   "DataVersion": 3465
 }
