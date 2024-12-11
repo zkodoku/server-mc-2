@@ -10488,3 +10488,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Dec2024 01:00:55.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has reached the goal [Like a Bossaru!]
 [11Dec2024 01:00:55.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ has reached the goal [Like a Bossaru!]
 [11Dec2024 01:01:09.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has reached the goal [The Power of the Gods]
+[11Dec2024 01:03:53.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 01:03:53.686] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 01:07:49.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> ay gonorrea
+[11Dec2024 01:07:51.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> encontré un templo
+[11Dec2024 01:08:34.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> cords
+[11Dec2024 01:08:48.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> está lejos un poquito mucho
+[11Dec2024 01:08:50.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> 23 91 74
+[11Dec2024 01:08:53.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> pongase un conejo
+[11Dec2024 01:08:53.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 01:08:53.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 01:09:17.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> o tire tp
+[11Dec2024 01:09:48.624] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14104, l='ServerLevel[world]', x=-805.18, y=-256.00, z=-177.14] died, message: 'Villager was killed'
+[11Dec2024 01:09:50.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> encontre otro yendo pa es

@@ -526,6 +526,12 @@
     },
     "done": true
   },
+  "aether:bronze_dungeon": {
+    "criteria": {
+      "kill_slider": "2024-12-11 01:00:55 +0000"
+    },
+    "done": true
+  },
   "aether:the_aether": {
     "criteria": {
       "the_aether": "2024-12-11 00:43:50 +0000"
