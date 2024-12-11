@@ -3304,3 +3304,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Dec2024 02:30:58.507] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-582}
 [11Dec2024 02:31:01.555] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=27, z=-561}
 [11Dec2024 02:31:16.702] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/39132, l='ServerLevel[world]', x=-2686.64, y=71.87, z=-405.60] died, message: 'Villager tried to swim in lava'
+[11Dec2024 02:33:36.127] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40643, l='ServerLevel[world]', x=-2486.50, y=74.00, z=-346.50]
+[11Dec2024 02:33:47.728] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40716, l='ServerLevel[world]', x=-2498.50, y=70.00, z=-376.50]
+[11Dec2024 02:33:57.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Rotten to the Core]
+[11Dec2024 02:34:08.176] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/40838, l='ServerLevel[world]', x=-2504.50, y=71.00, z=-302.50]
+[11Dec2024 02:38:16.326] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/42574, l='ServerLevel[world]', x=-2504.50, y=71.00, z=-387.50]
+[11Dec2024 02:38:52.379] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/42701, l='ServerLevel[world]', x=-2727.50, y=74.00, z=-487.50]
+[11Dec2024 02:43:01.475] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/44599, l='ServerLevel[world]', x=-2729.50, y=74.00, z=-488.50]
+[11Dec2024 02:43:14.075] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/44621, l='ServerLevel[world]', x=-2728.50, y=74.00, z=-486.50]
+[11Dec2024 02:47:04.166] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FireDokja[/127.204.36.98:54139] logged in with entity id 45345 at (-802.5, 64.0, -214.5)
+[11Dec2024 02:47:04.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FireDokja joined the game
+[11Dec2024 02:47:04.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FireDokja has made the advancement [Christmas]
+[11Dec2024 02:47:04.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FireDokja has completed the challenge [The Undead]
+[11Dec2024 02:47:04.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FireDokja has made the advancement [Ice and Fire]
+[11Dec2024 02:47:07.408] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of FireDokja (18)
+[11Dec2024 02:47:07.408] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to FireDokja
+[11Dec2024 02:47:20.393] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cf78fa04-2996-3fed-b89c-5566119c964c
+[11Dec2024 02:47:21.600] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cf78fa04-2996-3fed-b89c-5566119c964c
+[11Dec2024 02:47:21.601] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player FireDokja (cf78fa04-2996-3fed-b89c-5566119c964c) successfully connected to voice chat
+[11Dec2024 02:47:43.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FireDokja> uy mano
+[11Dec2024 02:47:51.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FireDokja> Daniel?
+[11Dec2024 02:49:01.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FireDokja has made the advancement [Alex's Mobs]
+[11Dec2024 02:52:21.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FireDokja has made the advancement [Suit Up]
+[11Dec2024 02:52:49.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FireDokja has reached the goal [The Power of the Gods]
+[11Dec2024 02:53:00.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FireDokja has made the advancement [Isn't It Iron Pick]
