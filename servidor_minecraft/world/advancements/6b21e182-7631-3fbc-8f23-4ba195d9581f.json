@@ -623,77 +623,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "aether:obtain_egg": {
     "criteria": {
-      "log_spam_fixer": "2024-12-11 02:55:54 +0000"
+      "moa_egg": "2024-12-11 01:34:34 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 02:55:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 02:55:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 02:55:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 02:55:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 02:55:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 02:55:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 02:55:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 02:55:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 02:55:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 02:55:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-11 02:55:54 +0000"
-    },
-    "done": false
+    "done": true
   },
   "aether:icestone": {
     "criteria": {
@@ -701,39 +635,9 @@
     },
     "done": true
   },
-  "undead_revamp2:defeatundeadbosses": {
-    "criteria": {
-      "defeatundeadbosses_0": "2024-12-11 02:27:08 +0000"
-    },
-    "done": true
-  },
   "twilightforest:magic_map": {
     "criteria": {
       "magic_map": "2024-12-11 01:50:37 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/bestiary": {
-    "criteria": {
-      "bestiary": "2024-12-11 02:14:00 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/lectern": {
-    "criteria": {
-      "bestiary": "2024-12-11 02:13:58 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:mygothgf": {
-    "criteria": {
-      "mygothgf_0": "2024-12-11 02:27:08 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/rotten_egg": {
-    "criteria": {
-      "bestiary": "2024-12-11 02:33:57 +0000"
     },
     "done": true
   },
@@ -749,9 +653,33 @@
     },
     "done": true
   },
-  "aether:obtain_egg": {
+  "iceandfire:iceandfire/lectern": {
     "criteria": {
-      "moa_egg": "2024-12-11 01:34:34 +0000"
+      "bestiary": "2024-12-11 02:13:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2024-12-11 02:14:00 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:defeatundeadbosses": {
+    "criteria": {
+      "defeatundeadbosses_0": "2024-12-11 02:27:08 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mygothgf": {
+    "criteria": {
+      "mygothgf_0": "2024-12-11 02:27:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2024-12-11 02:33:57 +0000"
     },
     "done": true
   },
