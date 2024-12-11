@@ -3348,3 +3348,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Dec2024 03:01:06.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FireDokja left the game
 [11Dec2024 03:01:06.988] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client FireDokja
 [11Dec2024 03:02:52.023] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@158c669c[id=<null>,name=1N_,properties={},legacy=false] (/127.157.141.99:58611) lost connection: Disconnected
+[11Dec2024 03:06:26.373] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@15091bf[id=<null>,name=1N_,properties={},legacy=false] (/127.157.141.99:53619) lost connection: Disconnected
+[11Dec2024 03:06:29.073] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6f56529d[id=<null>,name=1N_,properties={},legacy=false] (/127.157.141.99:46071) lost connection: Disconnected
+[11Dec2024 03:07:43.373] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1998616d[id=<null>,name=1N_,properties={},legacy=false] (/127.157.141.99:36277) lost connection: Disconnected
