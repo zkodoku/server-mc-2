@@ -3221,3 +3221,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Dec2024 01:50:56.519] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'supplementaries:way_sign' in chunk [-411, -89], discarding
 [11Dec2024 01:50:56.519] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'supplementaries:way_sign' in chunk [-410, -89], discarding
 [11Dec2024 01:51:55.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Your First Receptacle]
+[11Dec2024 01:55:58.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> ya vengo
+[11Dec2024 01:56:01.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> ale
+[11Dec2024 01:56:04.284] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Direx__ lost connection: Disconnected
+[11Dec2024 01:56:04.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ left the game
+[11Dec2024 01:56:04.285] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Direx__
