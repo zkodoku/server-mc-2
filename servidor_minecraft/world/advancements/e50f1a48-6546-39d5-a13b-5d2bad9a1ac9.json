@@ -496,9 +496,33 @@
     },
     "done": true
   },
+  "aether:icestone": {
+    "criteria": {
+      "icestone": "2024-12-11 00:55:48 +0000"
+    },
+    "done": true
+  },
   "aether:enter_aether": {
     "criteria": {
       "enter_aether": "2024-12-11 00:43:50 +0000"
+    },
+    "done": true
+  },
+  "aether:obtain_petal": {
+    "criteria": {
+      "aechor_petal": "2024-12-11 00:51:32 +0000"
+    },
+    "done": true
+  },
+  "aether:zanite": {
+    "criteria": {
+      "zanite": "2024-12-11 00:57:11 +0000"
+    },
+    "done": true
+  },
+  "aether:obtain_egg": {
+    "criteria": {
+      "moa_egg": "2024-12-11 00:52:02 +0000"
     },
     "done": true
   },
