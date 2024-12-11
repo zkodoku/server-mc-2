@@ -3226,3 +3226,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Dec2024 01:56:04.284] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Direx__ lost connection: Disconnected
 [11Dec2024 01:56:04.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ left the game
 [11Dec2024 01:56:04.285] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Direx__
+[11Dec2024 02:08:04.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Dragon Commander]
+[11Dec2024 02:12:08.381] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@399da58f[id=<null>,name=FireDokja,properties={},legacy=false] (/127.204.36.98:47939) lost connection: Disconnected
