@@ -180,6 +180,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2024-12-11 01:37:45 +0000",
       "apple": "2024-12-09 02:42:39 +0000",
       "bread": "2024-12-09 02:39:29 +0000",
       "golden_apple": "2024-12-09 02:45:18 +0000",
@@ -474,9 +475,10 @@
   },
   "twilightforest:progress_lich": {
     "criteria": {
+      "lifedrain_scepter": "2024-12-11 01:45:16 +0000",
       "kill_naga": "2024-12-10 05:43:07 +0000"
     },
-    "done": false
+    "done": true
   },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
@@ -537,6 +539,30 @@
       "kill_slider": "2024-12-11 01:00:55 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2024-12-11 01:45:16 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2024-12-11 01:45:16 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2024-12-11 01:44:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2024-12-11 01:45:16 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
