@@ -3136,3 +3136,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Dec2024 00:38:27.039] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/5914, l='ServerLevel[world]', x=-948.57, y=39.00, z=16.38] died: Drunken Villager was slain by LastFist
 [11Dec2024 00:38:28.586] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/5783, l='ServerLevel[world]', x=-947.73, y=39.23, z=16.77] died: Drunken Villager was slain by LastFist
 [11Dec2024 00:40:06.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Dragonslayer]
+[11Dec2024 00:43:08.391] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id supplementaries:sign_post
+[11Dec2024 00:43:49.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Hostile Paradise]
+[11Dec2024 00:43:50.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ has made the advancement [Hostile Paradise]
+[11Dec2024 00:45:38.624] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8514, l='ServerLevel[world]', x=-805.18, y=-256.00, z=-177.14] died, message: 'Villager was killed'
+[11Dec2024 00:48:27.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 14 [Iron Bars] to LastFist]
+[11Dec2024 00:49:00.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Teleported LastFist to Direx__]
+[11Dec2024 00:49:30.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 14 [Iron Ingot] to LastFist]
+[11Dec2024 00:49:58.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 14 [Leather] to LastFist]
+[11Dec2024 00:51:01.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 20 [Leather] to LastFist]
+[11Dec2024 00:51:11.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> oe
+[11Dec2024 00:51:13.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> yo hice un puente
+[11Dec2024 00:51:32.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ has made the advancement [Baby Food]
+[11Dec2024 00:52:02.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ has made the advancement [Don't Count Your Moas...]
