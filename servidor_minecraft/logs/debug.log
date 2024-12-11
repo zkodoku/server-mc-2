@@ -10501,3 +10501,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Dec2024 01:09:17.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Direx__> o tire tp
 [11Dec2024 01:09:48.624] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14104, l='ServerLevel[world]', x=-805.18, y=-256.00, z=-177.14] died, message: 'Villager was killed'
 [11Dec2024 01:09:50.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <LastFist> encontre otro yendo pa es
+[11Dec2024 01:12:50.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ was slain by Valkyrie
+[11Dec2024 01:12:50.536] [Server thread/DEBUG] [tombstone/]: A new grave of the player Direx__ was created at position [x:-12, y:91, z:83, dim:aether:the_aether]
+[11Dec2024 01:12:50.543] [Server thread/INFO] [tombstone/]: The player Direx__ has successfully been saved
+[11Dec2024 01:12:51.843] [Server thread/DEBUG] [twilightforest/]: Player Direx__ (e50f1a48-6546-39d5-a13b-5d2bad9a1ac9) respawned and received items held in storage
+[11Dec2024 01:13:16.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist was slain by Valkyrie
+[11Dec2024 01:13:16.396] [Server thread/DEBUG] [tombstone/]: A new grave of the player LastFist was created at position [x:24, y:92, z:76, dim:aether:the_aether]
+[11Dec2024 01:13:16.403] [Server thread/INFO] [tombstone/]: The player LastFist has successfully been saved
+[11Dec2024 01:13:18.571] [Server thread/DEBUG] [twilightforest/]: Player LastFist (6b21e182-7631-3fbc-8f23-4ba195d9581f) respawned and received items held in storage
+[11Dec2024 01:13:53.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 01:13:53.685] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 01:15:06.481] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LastFist lost connection: Disconnected
+[11Dec2024 01:15:06.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist left the game
+[11Dec2024 01:15:06.483] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of LastFist
+[11Dec2024 01:15:06.483] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client LastFist
+[11Dec2024 01:15:06.496] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 6b21e182-7631-3fbc-8f23-4ba195d9581f does not have a secret
+[11Dec2024 01:18:53.638] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 01:18:53.656] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 01:21:52.237] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Direx__ lost connection: Disconnected
+[11Dec2024 01:21:52.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Direx__ left the game
+[11Dec2024 01:21:52.238] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Direx__
+[11Dec2024 01:21:52.238] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Direx__
