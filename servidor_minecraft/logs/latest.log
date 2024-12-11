@@ -3228,3 +3228,79 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Dec2024 01:56:04.285] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Direx__
 [11Dec2024 02:08:04.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Dragon Commander]
 [11Dec2024 02:12:08.381] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@399da58f[id=<null>,name=FireDokja,properties={},legacy=false] (/127.204.36.98:47939) lost connection: Disconnected
+[11Dec2024 02:13:58.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Would you Like to Know More?]
+[11Dec2024 02:14:00.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [Book of Monsters]
+[11Dec2024 02:19:24.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gave 10 [Arrow] to LastFist]
+[11Dec2024 02:20:57.558] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1509, y=-40, z=-211} but found not block entity block Block{minecraft:air} at location
+[11Dec2024 02:20:57.559] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1509, y=-40, z=-211}
+[11Dec2024 02:20:57.563] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1512, y=4, z=-197} but found not block entity block Block{minecraft:air} at location
+[11Dec2024 02:20:57.563] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1512, y=4, z=-197}
+[11Dec2024 02:20:57.567] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1519, y=-4, z=-188} but found not block entity block Block{minecraft:air} at location
+[11Dec2024 02:20:57.568] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1519, y=-4, z=-188}
+[11Dec2024 02:20:57.568] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1519, y=-5, z=-190} but found not block entity block Block{minecraft:air} at location
+[11Dec2024 02:20:57.568] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1519, y=-5, z=-190}
+[11Dec2024 02:20:57.569] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1510, y=5, z=-192} but found not block entity block Block{minecraft:air} at location
+[11Dec2024 02:20:57.569] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1510, y=5, z=-192}
+[11Dec2024 02:20:57.569] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1519, y=-5, z=-191} but found not block entity block Block{minecraft:air} at location
+[11Dec2024 02:20:57.570] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1519, y=-5, z=-191}
+[11Dec2024 02:20:57.572] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1506, y=-24, z=-171} but found not block entity block Block{minecraft:air} at location
+[11Dec2024 02:20:57.573] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1506, y=-24, z=-171}
+[11Dec2024 02:20:57.573] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1509, y=-11, z=-172} but found not block entity block Block{minecraft:air} at location
+[11Dec2024 02:20:57.574] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1509, y=-11, z=-172}
+[11Dec2024 02:20:57.903] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1506, y=5, z=-138} but found not block entity block Block{minecraft:air} at location
+[11Dec2024 02:20:57.903] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1506, y=5, z=-138}
+[11Dec2024 02:21:09.265] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/32659, l='ServerLevel[world]', x=-1425.88, y=-8.00, z=-271.13, removed=DISCARDED]
+[11Dec2024 02:21:09.266] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/32660, l='ServerLevel[world]', x=-1425.88, y=-8.00, z=-271.13, removed=DISCARDED]
+[11Dec2024 02:23:16.471] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[11Dec2024 02:23:16.499] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[11Dec2024 02:23:16.499] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[11Dec2024 02:23:36.644] [Worker-Main-105/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[11Dec2024 02:23:36.645] [Worker-Main-105/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[11Dec2024 02:24:25.521] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[11Dec2024 02:25:36.666] [Worker-Main-105/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=61, y=-56, z=87}
+[11Dec2024 02:25:41.386] [Worker-Main-105/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=63, y=-56, z=89}
+[11Dec2024 02:25:41.387] [Worker-Main-105/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-56, z=90}
+[11Dec2024 02:25:41.387] [Worker-Main-105/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=66, y=-56, z=92}
+[11Dec2024 02:25:41.387] [Worker-Main-105/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=68, y=-56, z=94}
+[11Dec2024 02:25:41.387] [Worker-Main-105/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=69, y=-56, z=98}
+[11Dec2024 02:25:41.387] [Worker-Main-105/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=70, y=-56, z=101}
+[11Dec2024 02:25:41.387] [Worker-Main-105/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=73, y=-56, z=102}
+[11Dec2024 02:25:41.388] [Worker-Main-105/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-56, z=101}
+[11Dec2024 02:25:44.402] [Worker-Main-105/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=79, y=-56, z=103}
+[11Dec2024 02:25:44.753] [Worker-Main-105/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=80, y=-56, z=106}
+[11Dec2024 02:25:44.753] [Worker-Main-105/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=85, y=-56, z=107}
+[11Dec2024 02:25:44.753] [Worker-Main-105/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=85, y=-56, z=112}
+[11Dec2024 02:25:44.754] [Worker-Main-105/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=89, y=-56, z=115}
+[11Dec2024 02:25:44.754] [Worker-Main-105/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=90, y=-56, z=118}
+[11Dec2024 02:26:52.115] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
+[11Dec2024 02:27:08.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has completed the challenge [My Bald Satanic Goth Girl Friend]
+[11Dec2024 02:27:08.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist has made the advancement [First big catch of the month!]
+[11Dec2024 02:27:23.883] [Worker-Main-105/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-536}
+[11Dec2024 02:27:23.884] [Worker-Main-105/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=27, z=-536}
+[11Dec2024 02:27:23.884] [Worker-Main-105/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=27, z=-536}
+[11Dec2024 02:27:23.884] [Worker-Main-105/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=28, z=-536}
+[11Dec2024 02:27:23.885] [Worker-Main-105/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-251, y=28, z=-536}
+[11Dec2024 02:27:23.885] [Worker-Main-105/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=28, z=-536}
+[11Dec2024 02:27:23.892] [Worker-Main-105/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
+[11Dec2024 02:27:30.390] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-582}
+[11Dec2024 02:27:30.391] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-587}
+[11Dec2024 02:27:30.391] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-582}
+[11Dec2024 02:27:30.392] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-587}
+[11Dec2024 02:27:31.048] [Worker-Main-105/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=27, z=-561}
+[11Dec2024 02:27:53.699] [Worker-Main-105/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
+[11Dec2024 02:27:53.700] [Worker-Main-105/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
+[11Dec2024 02:28:34.567] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element illagerinvasion:firecaller_hut took 250 ms
+[11Dec2024 02:28:50.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LastFist: Gamerule sendCommandFeedback is now set to: true]
+[11Dec2024 02:29:24.289] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element iceandfire:mausoleum took 1698 ms
+[11Dec2024 02:30:41.679] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element iceandfire:scribe took 21 ms
+[11Dec2024 02:30:54.380] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-587}
+[11Dec2024 02:30:54.414] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-330, y=27, z=-542}
+[11Dec2024 02:30:54.414] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-329, y=27, z=-542}
+[11Dec2024 02:30:54.414] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-329, y=32, z=-542}
+[11Dec2024 02:30:54.685] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-587}
+[11Dec2024 02:30:57.338] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[11Dec2024 02:30:57.338] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[11Dec2024 02:30:57.533] [Worker-Main-78/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-582}
+[11Dec2024 02:30:58.507] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-582}
+[11Dec2024 02:31:01.555] [Worker-Main-102/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=27, z=-561}
+[11Dec2024 02:31:16.702] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/39132, l='ServerLevel[world]', x=-2686.64, y=71.87, z=-405.60] died, message: 'Villager tried to swim in lava'

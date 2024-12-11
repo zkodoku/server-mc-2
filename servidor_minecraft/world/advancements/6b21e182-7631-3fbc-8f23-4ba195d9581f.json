@@ -123,11 +123,14 @@
     "criteria": {
       "minecraft:cherry_grove": "2024-12-09 02:41:44 +0000",
       "minecraft:birch_forest": "2024-12-09 04:01:40 +0000",
+      "minecraft:windswept_hills": "2024-12-11 02:24:44 +0000",
       "minecraft:beach": "2024-12-09 03:45:30 +0000",
       "minecraft:dark_forest": "2024-12-09 04:13:07 +0000",
       "minecraft:river": "2024-12-09 03:12:05 +0000",
       "minecraft:forest": "2024-12-09 03:05:59 +0000",
+      "minecraft:windswept_forest": "2024-12-11 02:21:54 +0000",
       "minecraft:ocean": "2024-12-09 03:58:35 +0000",
+      "minecraft:windswept_savanna": "2024-12-11 02:23:54 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-09 04:23:47 +0000",
       "minecraft:meadow": "2024-12-09 02:38:57 +0000",
       "minecraft:plains": "2024-12-08 19:32:08 +0000"
@@ -625,9 +628,33 @@
     },
     "done": true
   },
+  "undead_revamp2:defeatundeadbosses": {
+    "criteria": {
+      "defeatundeadbosses_0": "2024-12-11 02:27:08 +0000"
+    },
+    "done": true
+  },
   "twilightforest:magic_map": {
     "criteria": {
       "magic_map": "2024-12-11 01:50:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2024-12-11 02:14:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2024-12-11 02:13:58 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mygothgf": {
+    "criteria": {
+      "mygothgf_0": "2024-12-11 02:27:08 +0000"
     },
     "done": true
   },
