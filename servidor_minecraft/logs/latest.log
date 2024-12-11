@@ -3351,3 +3351,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Dec2024 03:06:26.373] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@15091bf[id=<null>,name=1N_,properties={},legacy=false] (/127.157.141.99:53619) lost connection: Disconnected
 [11Dec2024 03:06:29.073] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6f56529d[id=<null>,name=1N_,properties={},legacy=false] (/127.157.141.99:46071) lost connection: Disconnected
 [11Dec2024 03:07:43.373] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1998616d[id=<null>,name=1N_,properties={},legacy=false] (/127.157.141.99:36277) lost connection: Disconnected
+[11Dec2024 03:14:54.574] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7c93e3b9[id=<null>,name=1N_,properties={},legacy=false] (/127.157.141.99:56085) lost connection: Disconnected
+[11Dec2024 03:15:03.974] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@26da664f[id=<null>,name=1N_,properties={},legacy=false] (/127.157.141.99:48037) lost connection: Disconnected
+[11Dec2024 03:19:25.760] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LastFist[/127.175.198.153:59797] logged in with entity id 55839 at (-2622.27867830615, 67.2531999805212, -442.1940163656144)
+[11Dec2024 03:19:25.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist joined the game
+[11Dec2024 03:19:26.597] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of LastFist (18)
+[11Dec2024 03:19:26.597] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to LastFist
+[11Dec2024 03:19:37.214] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6b21e182-7631-3fbc-8f23-4ba195d9581f
+[11Dec2024 03:19:38.213] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6b21e182-7631-3fbc-8f23-4ba195d9581f
+[11Dec2024 03:19:38.214] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player LastFist (6b21e182-7631-3fbc-8f23-4ba195d9581f) successfully connected to voice chat
+[11Dec2024 03:21:37.946] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@16e11319[id=<null>,name=1N_,properties={},legacy=false] (/127.157.141.99:38307) lost connection: Disconnected
