@@ -3328,3 +3328,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Dec2024 02:52:21.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FireDokja has made the advancement [Suit Up]
 [11Dec2024 02:52:49.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FireDokja has reached the goal [The Power of the Gods]
 [11Dec2024 02:53:00.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FireDokja has made the advancement [Isn't It Iron Pick]
+[11Dec2024 02:53:40.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FireDokja has made the advancement [Monster Hunter]
+[11Dec2024 02:53:42.902] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/39041, l='ServerLevel[world]', x=-2693.58, y=66.00, z=-453.49] died, message: 'Nitwit was slain by Sprinter'
+[11Dec2024 02:54:20.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FireDokja has made the advancement [Stone Age]
+[11Dec2024 02:55:10.750] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1a124659[id=<null>,name=1N_,properties={},legacy=false] (/127.157.141.99:52311) lost connection: Disconnected
+[11Dec2024 02:55:30.912] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id born_in_chaos_v1:thornshell_crab
+[11Dec2024 02:56:04.978] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/49801, l='ServerLevel[world]', x=-2728.50, y=74.00, z=-488.50]
+[11Dec2024 02:56:13.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FireDokja has made the advancement [Knowledge of Death]
+[11Dec2024 02:56:13.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FireDokja has made the advancement [Ashes 'n Bones]
+[11Dec2024 02:56:37.963] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LastFist lost connection: Timed out
+[11Dec2024 02:56:37.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LastFist left the game
+[11Dec2024 02:56:37.965] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client LastFist
+[11Dec2024 02:56:58.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FireDokja has made the advancement [Knowledge raises the soul]
+[11Dec2024 02:57:22.234] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@590d3889[id=<null>,name=1N_,properties={},legacy=false] (/127.157.141.99:59805) lost connection: Disconnected
+[11Dec2024 02:57:30.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FireDokja has reached the goal [Hunted]
+[11Dec2024 02:58:26.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FireDokja has made the advancement [Hostile Paradise]
+[11Dec2024 03:00:14.438] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1bb10629[id=<null>,name=1N_,properties={},legacy=false] (/127.157.141.99:34501) lost connection: Disconnected
+[11Dec2024 03:01:06.987] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FireDokja lost connection: Disconnected
+[11Dec2024 03:01:06.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FireDokja left the game
+[11Dec2024 03:01:06.988] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client FireDokja
+[11Dec2024 03:02:52.023] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@158c669c[id=<null>,name=1N_,properties={},legacy=false] (/127.157.141.99:58611) lost connection: Disconnected
